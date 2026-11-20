@@ -1,4 +1,4 @@
-# ⚡ Cybersecurity | Security Research
+# ⚡ Cybersecurity | Security Research ⚡
 
 <div align="center">
 
@@ -26,15 +26,15 @@ I focus on developing practical technical skills through experimentation, securi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=windows,linux,kali,ubuntu,debian,docker" />
+<img src="https://skillicons.dev/icons?i=windows,linux,kali,ubuntu" />
 
 </div>
 
 - Linux and Windows administration
 - Command-line operations and system management
 - Virtual machines and isolated testing environments
-- Docker and containerization
-- System configuration and hardening
+
+
 
 ---
 
@@ -60,13 +60,13 @@ I focus on developing practical technical skills through experimentation, securi
 
 **Areas of Interest**
 
-- Network architecture and topology
+- Network architecture 
 - Cisco routing and switching
 - VLANs, subnetting and inter-VLAN routing
 - Firewalls and Access Control Lists (ACLs)
 - TCP/IP, DNS, DHCP and HTTP/HTTPS
 - Network monitoring and troubleshooting
-- Infrastructure security and hardening
+- Infrastructure security 
 
 ---
 
@@ -87,8 +87,7 @@ I focus on developing practical technical skills through experimentation, securi
 - Web application security
 - Linux security and privilege escalation
 - CVE investigation and exploit analysis
-- Attack surface identification
-- Security configuration assessment
+
 
 ---
 
@@ -112,7 +111,6 @@ I focus on developing practical technical skills through experimentation, securi
 - Malware behavior investigation
 - Suspicious executable analysis
 - Reverse engineering fundamentals
-- Indicators of Compromise (IOCs)
 - Windows and Linux security investigation
 
 ---
@@ -144,9 +142,6 @@ I focus on developing practical technical skills through experimentation, securi
 <a href="https://nmap.org/">
   <img src="https://img.shields.io/badge/Nmap-Network_Scanning-1679A7?style=for-the-badge" />
 </a>
-<a href="https://portswigger.net/burp">
-  <img src="https://img.shields.io/badge/Burp_Suite-Web_Security-FF6633?style=for-the-badge" />
-</a>
 
 <br/><br/>
 
@@ -171,7 +166,6 @@ I focus on developing practical technical skills through experimentation, securi
 
 - Exploring malware behavior and reverse engineering
 - Studying vulnerability discovery and exploit development
-- Deepening knowledge of network infrastructure and firewalls
 - Practicing penetration testing in controlled environments
 - Improving Linux and Windows security knowledge
 
@@ -181,12 +175,4 @@ I focus on developing practical technical skills through experimentation, securi
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:111827,100:050505&height=110&section=footer" width="100%" />
 
-**THINK LIKE AN ATTACKER. BUILD LIKE A DEFENDER.**
 
-<sub>CYBERSECURITY • REVERSE ENGINEERING • NETWORKING • RESEARCH</sub>
-
-<br/><br/>
-
-<sub>Security research and testing conducted exclusively in authorized environments.</sub>
-
-</div>

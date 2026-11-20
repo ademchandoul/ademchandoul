@@ -81,4 +81,50 @@ Python · C · Bash · SQL
 
 
 
+## ◈ COMPUTER & NETWORK INFRASTRUCTURE
 
+<div align="center">
+
+### 💻 Computer Systems & Architecture
+
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,docker,vmware" />
+
+<br/><br/>
+
+### 🌐 Network Architecture & Administration
+
+<img src="https://skillicons.dev/icons?i=cisco" />
+
+<br/>
+
+<a href="https://www.cisco.com/">
+<img src="https://img.shields.io/badge/Cisco-Networking-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/>
+</a>
+<a href="https://www.fortinet.com/">
+<img src="https://img.shields.io/badge/Fortinet-Firewalls-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
+</a>
+<a href="https://www.wireshark.org/">
+<img src="https://img.shields.io/badge/Network-Traffic%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### 🔥 Infrastructure & Security
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare" />
+
+<br/><br/>
+
+</div>
+
+**Core Knowledge**
+
+- Computer architecture and hardware fundamentals
+- Network architecture and topology
+- Cisco routing and switching
+- VLANs, subnetting and inter-VLAN routing
+- Firewalls and access control lists (ACLs)
+- Network protocols: TCP/IP, DNS, DHCP, HTTP/HTTPS
+- Virtualization and infrastructure management
+- Network monitoring and troubleshooting
+- Infrastructure hardening and network security

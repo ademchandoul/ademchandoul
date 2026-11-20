@@ -1,4 +1,4 @@
-# ⚡ Cybersecurity Consultant | Exploit Researcher
+#  Cybersecurity Consultant | Exploit Researcher
 
 <div align="center">
 
@@ -14,9 +14,9 @@
 
 ## ◈ 01 / PROFILE
 
-Cybersecurity enthusiast focused on security assessment, vulnerability research, penetration testing, malware analysis, and exploit research.
+Cybersecurity advisor focused on security assessment, vulnerability research, penetration testing, malware analysis, and exploit research.
 
-Interested in identifying vulnerabilities, analyzing malicious software, understanding attack techniques, and strengthening digital infrastructure.
+Interested in identifying vulnerabilities, analyzing malicious software, understanding attack techniques .
 
 ---
 
@@ -24,14 +24,13 @@ Interested in identifying vulnerabilities, analyzing malicious software, underst
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=windows,linux,kali,ubuntu,debian,docker" />
+<img src="https://skillicons.dev/icons?i=windows,linux,kali,ubuntu" />
 
 </div>
 
 - Linux and Windows environments
 - System administration and command-line operations
 - Virtualization and isolated analysis environments
-- Docker and containerization
 
 ---
 
@@ -103,7 +102,7 @@ Interested in identifying vulnerabilities, analyzing malicious software, underst
 </a>
 
 </div>
-
+- Soc
 - Static and dynamic malware analysis
 - Malware behavior investigation
 - Suspicious file and executable analysis
@@ -158,21 +157,11 @@ Interested in identifying vulnerabilities, analyzing malicious software, underst
 
 ---
 
-## ◈ 08 / CURRENT FOCUS
-
-- Malware analysis and reverse engineering
-- Vulnerability discovery and exploit research
-- Network infrastructure and firewall technologies
-- Penetration testing methodologies
-- Linux and Windows security
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:111827,100:050505&height=100&section=footer" width="100%"/>
 
-**THINK LIKE AN ATTACKER. BUILD LIKE A DEFENDER.**
+
 
 <sub>CYBERSECURITY • MALWARE ANALYSIS • NETWORKING • RESEARCH</sub>
 

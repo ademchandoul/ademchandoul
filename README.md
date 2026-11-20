@@ -3,13 +3,12 @@
 <h1>CONSULTANT CYBER SECURITY</h1>
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:111827,100:00D9FF&height=3&section=header" width="65%" />
 
 </div>
 <br></br>
 <div align="center">
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:00D9FF&height=190&section=header&text=SECURITY%20RESEARCH&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
 
 
 <br/>

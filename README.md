@@ -1,205 +1,192 @@
-# ⚡ Cybersecurity Consultant | Exploit Researcher
+# ⚡ Cybersecurity | Security Research
 
-\<div align="center">
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:00D9FF&height=190&section=header&text=SECURITY%20RESEARCH&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
 
+<br/>
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:00D9FF&height=180&section=header&text=SECURITY%20RESEARCH&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40](https://capsule-render.vercel.app/api?type=waving\&color=0:050505,50:111827,100:00D9FF\&height=180\&section=header\&text=SECURITY%20RESEARCH\&fontSize=35\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=40)" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Cybersecurity+%2F+Penetration+Testing;Vulnerability+Research+%2F+Exploit+Analysis;Malware+Analysis+%2F+Reverse+Engineering;Network+Security+%2F+Infrastructure" />
 
-
-
-\<br/>
-
-
-
-\<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Penetration+Testing;Vulnerability+Research+%7C+Exploit+Analysis;Malware+Analysis+%7C+Network+Security](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&size=15\&duration=2500\&pause=800\&color=00D9FF\&center=true\&vCenter=true\&width=600\&lines=Cybersecurity+%7C+Penetration+Testing;Vulnerability+Research+%7C+Exploit+Analysis;Malware+Analysis+%7C+Network+Security)" />
-
-
-
-\</div>
+</div>
 
 ---
 
-## ◈ 01 / PROFILE
+## ◈ About
 
-Cybersecurity enthusiast focused on security assessment, vulnerability research, penetration testing, malware analysis, and exploit research.
+Cybersecurity enthusiast interested in understanding how systems operate, how vulnerabilities emerge, and how security mechanisms can be improved.
 
+My interests include penetration testing, vulnerability research, network security, malware analysis, and reverse engineering.
 
-
-Interested in identifying vulnerabilities, analyzing malicious software, understanding attack techniques, and strengthening digital infrastructure.
+I focus on developing practical technical skills through experimentation, security labs, and independent research.
 
 ---
 
-## ◈ 02 / SYSTEMS & ENVIRONMENTS
+## ◈ Systems & Environments
 
-\<div align="center">
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=windows,linux,kali,ubuntu,debian,docker" />
 
+</div>
 
-\<img src="[https://skillicons.dev/icons?i=windows,linux,kali,ubuntu,debian,docker](https://skillicons.dev/icons?i=windows,linux,kali,ubuntu,debian,docker)" />
-
-
-
-\</div>
-
-- Linux and Windows environments
-- System administration and command-line operations
-- Virtualization and isolated analysis environments
+- Linux and Windows administration
+- Command-line operations and system management
+- Virtual machines and isolated testing environments
 - Docker and containerization
+- System configuration and hardening
 
 ---
 
-## ◈ 03 / NETWORK ENGINEERING & INFRASTRUCTURE
+## ◈ Network Engineering & Infrastructure
 
-\<div align="center">
+<div align="center">
 
+<a href="https://www.cisco.com/">
+  <img src="https://img.shields.io/badge/Cisco-Networking-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
+</a>
+<a href="https://www.fortinet.com/">
+  <img src="https://img.shields.io/badge/Fortinet-Firewalls-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+</a>
+<a href="https://www.wireshark.org/">
+  <img src="https://img.shields.io/badge/Wireshark-Traffic_Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+</a>
 
+<br/><br/>
 
-\<a href="[https://www.cisco.com/](https://www.cisco.com/)"> \<img src="[https://img.shields.io/badge/Cisco-Networking-049FD9?style=for-the-badge&logo=cisco&logoColor=white](https://img.shields.io/badge/Cisco-Networking-049FD9?style=for-the-badge\&logo=cisco\&logoColor=white)"/> \</a> \<a href="[https://www.fortinet.com/](https://www.fortinet.com/)"> \<img src="[https://img.shields.io/badge/Fortinet-Firewalls-EE3124?style=for-the-badge&logo=fortinet&logoColor=white](https://img.shields.io/badge/Fortinet-Firewalls-EE3124?style=for-the-badge\&logo=fortinet\&logoColor=white)"/> \</a> \<a href="[https://www.wireshark.org/](https://www.wireshark.org/)"> \<img src="[https://img.shields.io/badge/Wireshark-Traffic%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white](https://img.shields.io/badge/Wireshark-Traffic%20Analysis-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)"/> \</a>
+<img src="https://skillicons.dev/icons?i=nginx,cloudflare,docker" />
 
+</div>
 
-
-\<br/>\<br/>
-
-
-
-\<img src="[https://skillicons.dev/icons?i=nginx,cloudflare,docker](https://skillicons.dev/icons?i=nginx,cloudflare,docker)" />
-
-
-
-\</div>
-
-
-
-**Core Knowledge**
+**Areas of Interest**
 
 - Network architecture and topology
 - Cisco routing and switching
 - VLANs, subnetting and inter-VLAN routing
-- Firewalls and access control lists (ACLs)
+- Firewalls and Access Control Lists (ACLs)
 - TCP/IP, DNS, DHCP and HTTP/HTTPS
 - Network monitoring and troubleshooting
-- Infrastructure hardening and network security
+- Infrastructure security and hardening
 
 ---
 
-## ◈ 04 / CYBERSECURITY & EXPLOIT RESEARCH
+## ◈ Cybersecurity & Vulnerability Research
 
-\<div align="center">
+<div align="center">
 
+<img src="https://img.shields.io/badge/Penetration_Testing-00D9FF?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Vulnerability_Research-00D9FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Exploit_Analysis-00D9FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Web_Security-00D9FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Network_Security-00D9FF?style=flat-square" />
 
-
-\<img src="[https://img.shields.io/badge/Penetration_Testing-00D9FF?style=flat-square](https://img.shields.io/badge/Penetration_Testing-00D9FF?style=flat-square)"/> \<img src="[https://img.shields.io/badge/Vulnerability_Assessment-00D9FF?style=flat-square](https://img.shields.io/badge/Vulnerability_Assessment-00D9FF?style=flat-square)"/> \<img src="[https://img.shields.io/badge/Exploit_Research-00D9FF?style=flat-square](https://img.shields.io/badge/Exploit_Research-00D9FF?style=flat-square)"/> \<img src="[https://img.shields.io/badge/Web_Security-00D9FF?style=flat-square](https://img.shields.io/badge/Web_Security-00D9FF?style=flat-square)"/> \<img src="[https://img.shields.io/badge/Network_Security-00D9FF?style=flat-square](https://img.shields.io/badge/Network_Security-00D9FF?style=flat-square)"/>
-
-
-
-\</div>
+</div>
 
 - Security assessment and vulnerability discovery
 - Penetration testing methodologies
 - Web application security
 - Linux security and privilege escalation
-- Exploit analysis and CVE research
-- Attack surface analysis
+- CVE investigation and exploit analysis
+- Attack surface identification
+- Security configuration assessment
 
 ---
 
-## ◈ 05 / MALWARE ANALYSIS & REVERSE ENGINEERING
+## ◈ Malware Analysis & Reverse Engineering
 
-\<div align="center">
+<div align="center">
 
+<a href="https://ghidra-sre.org/">
+  <img src="https://img.shields.io/badge/Ghidra-Reverse_Engineering-CC0000?style=for-the-badge" />
+</a>
+<a href="https://www.virustotal.com/">
+  <img src="https://img.shields.io/badge/VirusTotal-Malware_Research-394EFF?style=for-the-badge" />
+</a>
+<a href="https://www.osquery.io/">
+  <img src="https://img.shields.io/badge/osquery-System_Analysis-00AEEF?style=for-the-badge" />
+</a>
 
-
-\<a href="[https://ghidra-sre.org/](https://ghidra-sre.org/)"> \<img src="[https://img.shields.io/badge/Ghidra-Reverse_Engineering-CC0000?style=for-the-badge](https://img.shields.io/badge/Ghidra-Reverse_Engineering-CC0000?style=for-the-badge)"/> \</a> \<a href="[https://www.virustotal.com/](https://www.virustotal.com/)"> \<img src="[https://img.shields.io/badge/VirusTotal-Malware_Research-394EFF?style=for-the-badge](https://img.shields.io/badge/VirusTotal-Malware_Research-394EFF?style=for-the-badge)"/> \</a> \<a href="[https://www.osquery.io/](https://www.osquery.io/)"> \<img src="[https://img.shields.io/badge/osquery-System_Analysis-00AEEF?style=for-the-badge](https://img.shields.io/badge/osquery-System_Analysis-00AEEF?style=for-the-badge)"/> \</a>
-
-
-
-\</div>
+</div>
 
 - Static and dynamic malware analysis
 - Malware behavior investigation
-- Suspicious file and executable analysis
+- Suspicious executable analysis
 - Reverse engineering fundamentals
 - Indicators of Compromise (IOCs)
 - Windows and Linux security investigation
 
 ---
 
-## ◈ 06 / PROGRAMMING & DEVELOPMENT
+## ◈ Programming & Development
 
-\<div align="center">
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=python,c,bash,js,html,css" />
 
+</div>
 
-\<img src="[https://skillicons.dev/icons?i=python,c,bash,js,html,css](https://skillicons.dev/icons?i=python,c,bash,js,html,css)" />
+**Python** — Security automation, scripting and analysis.
 
+**C** — Low-level programming, memory management and system concepts.
 
+**Bash** — Linux administration and command-line automation.
 
-\<br/>\<br/>
+**JavaScript** — Web development and application security.
 
-| Language   | Application                               |
-| ---------- | ----------------------------------------- |
-| Python     | Security automation and scripting         |
-| C          | Low-level programming and memory concepts |
-| Bash       | Linux administration and automation       |
-| JavaScript | Web development and application security  |
-| HTML       | Web structure                             |
-| CSS        | Web styling                               |
-
-\</div>
+**HTML & CSS** — Web structure and interface development.
 
 ---
 
-## ◈ 07 / SECURITY TOOLKIT
+## ◈ Security Toolkit
 
-\<div align="center">
+<div align="center">
 
+<a href="https://nmap.org/">
+  <img src="https://img.shields.io/badge/Nmap-Network_Scanning-1679A7?style=for-the-badge" />
+</a>
+<a href="https://portswigger.net/burp">
+  <img src="https://img.shields.io/badge/Burp_Suite-Web_Security-FF6633?style=for-the-badge" />
+</a>
 
+<br/><br/>
 
-\<a href="[https://nmap.org/](https://nmap.org/)"> \<img src="[https://img.shields.io/badge/Nmap-Network_Scanning-1679A7?style=for-the-badge](https://img.shields.io/badge/Nmap-Network_Scanning-1679A7?style=for-the-badge)"/> \</a> \<a href="[https://portswigger.net/burp](https://portswigger.net/burp)"> \<img src="[https://img.shields.io/badge/Burp_Suite-Web_Security-FF6633?style=for-the-badge](https://img.shields.io/badge/Burp_Suite-Web_Security-FF6633?style=for-the-badge)"/> \</a>
+<a href="https://www.metasploit.com/">
+  <img src="https://img.shields.io/badge/Metasploit-Exploitation-2596CD?style=for-the-badge" />
+</a>
+<a href="https://www.kali.org/">
+  <img src="https://img.shields.io/badge/Kali_Linux-Security-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+</a>
 
-
-
-\<br/>
-
-
-
-\<a href="[https://www.metasploit.com/](https://www.metasploit.com/)"> \<img src="[https://img.shields.io/badge/Metasploit-Exploitation-2596CD?style=for-the-badge](https://img.shields.io/badge/Metasploit-Exploitation-2596CD?style=for-the-badge)"/> \</a> \<a href="[https://www.kali.org/](https://www.kali.org/)"> \<img src="[https://img.shields.io/badge/Kali_Linux-Security-557C94?style=for-the-badge](https://img.shields.io/badge/Kali_Linux-Security-557C94?style=for-the-badge)"/> \</a>
-
-
-
-\</div>
-
----
-
-## ◈ 08 / CURRENT FOCUS
-
-- Malware analysis and reverse engineering
-- Vulnerability discovery and exploit research
-- Network infrastructure and firewall technologies
-- Penetration testing methodologies
-- Linux and Windows security
+</div>
 
 ---
 
-\<div align="center">
+## ◈ Current Focus
 
+<div align="center">
 
+`REVERSE ENGINEERING` • `VULNERABILITY RESEARCH` • `NETWORK SECURITY`
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:111827,100:050505&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:00D9FF,50:111827,100:050505\&height=100\&section=footer)" width="100%"/>
+</div>
 
+- Exploring malware behavior and reverse engineering
+- Studying vulnerability discovery and exploit development
+- Deepening knowledge of network infrastructure and firewalls
+- Practicing penetration testing in controlled environments
+- Improving Linux and Windows security knowledge
 
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:111827,100:050505&height=110&section=footer" width="100%" />
 
 **THINK LIKE AN ATTACKER. BUILD LIKE A DEFENDER.**
 
+<sub>CYBERSECURITY • REVERSE ENGINEERING • NETWORKING • RESEARCH</sub>
 
+<br/><br/>
 
-\<sub>CYBERSECURITY • MALWARE ANALYSIS • NETWORKING • RESEARCH\</sub>
+<sub>Security research and testing conducted exclusively in authorized environments.</sub>
 
-
-
-\</div>
-
----
-
-*Security research and testing conducted in authorized environments only. i want to be nt like built with ai and creative i wnat to obtimize it*
+</div>

@@ -1,4 +1,4 @@
-#  Cybersecurity Consultant | Exploit Researcher
+<div align="center">Cybersecurity Consultant | Exploit Researcher</div>
 
 <div align="center">
 

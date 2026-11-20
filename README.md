@@ -1,69 +1,79 @@
+# `ADEM` | Cybersecurity & Security Research
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Security+Research;Ethical+Hacking+%26+System+Security;Linux+%7C+Networking+%7C+Technology" alt="Animated cybersecurity introduction" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:064E3B&height=180&section=header&text=ADEM%20CHANDOUL&fontSize=42&fontColor=00FF88&animation=fadeIn&fontAlignY=38&desc=CYBERSECURITY%20%7C%20NETWORK%20SECURITY&descAlignY=60&descSize=15"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Ethical+Hacking+%26+Security+Research;Network+Security+%26+Defense" />
-
-<br/>
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
-
-</div>
-
----
-
-## ◈ ABOUT ME
-
-Cybersecurity enthusiast passionate about digital security, ethical hacking, vulnerability research, and network protection.
-
-Interested in understanding cyber threats, exploring security technologies, and strengthening digital infrastructures.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-111827?style=flat-square&logo=hackthebox&logoColor=9FEF00" />
+  <img src="https://img.shields.io/badge/Interest-Security%20Research-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Environment-Linux-111827?style=flat-square&logo=linux&logoColor=white" />
+</p>
 
 ---
 
-## ⚡ TECHNICAL SKILLS
+## `01` — PROFILE
 
-<div align="center">
+Interested in cybersecurity, ethical hacking, operating systems, and security technologies.
 
-<img src="https://skillicons.dev/icons?i=linux,kali,python,c,bash,git&theme=dark"/>
+Focused on understanding how systems work, exploring security concepts, and developing practical technical knowledge.
 
-</div>
-
-## 🛡️ SECURITY TECHNOLOGIES
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Nmap-1679A7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
-
-</div>
-
-## 🔐 AREAS OF INTEREST
-
-- Offensive Security & Ethical Hacking
-- Vulnerability Research & Analysis
-- Exploitation Fundamentals
-- Network Security & Infrastructure
-- Threat Intelligence
-- Digital Forensics
-- Security Assessment & Advisory
+**Core interests:**
+- Cybersecurity & Information Security
+- Ethical Hacking
+- Operating System Security
+- Network Security
+- Vulnerability Research
 
 ---
 
-<div align="center">
+## `02` — OPERATING SYSTEMS
 
-### ◈ MY MISSION
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kali,linux,windows&theme=dark" />
+</p>
 
-**THINK · ANALYZE · EXPLORE · SECURE**
+---
 
-*"Understand the threat. Strengthen the defense."*
+## `03` — TECHNOLOGIES & TOOLS
 
-<a href="https://github.com/ademchandoul">
-<img src="https://img.shields.io/badge/GITHUB-ADEMCHANDOUL-181717?style=for-the-badge&logo=github"/>
-</a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash,git,github,vscode&theme=dark" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:064E3B&height=90&section=footer"/>
+**Linux Fundamentals**
+- Command-line operations
+- File and directory management
+- Permissions and ownership
+- Input and output redirection
+- Text processing and command pipelines
 
-</div>
+---
+
+## `04` — CYBERSECURITY DOMAINS
+
+| Domain | Focus |
+|---|---|
+| Network Security | Network architecture and protection |
+| Ethical Hacking | Authorized security testing |
+| System Security | Operating system protection |
+| Vulnerability Research | Identifying and understanding weaknesses |
+| Information Security | Security principles and practices |
+
+---
+
+## `05` — PROFESSIONAL MINDSET
+
+> Understand the system. Identify the weakness. Strengthen the security.
+
+- Continuous technical learning
+- Responsible security research
+- Practical experimentation in authorized environments
+- Analytical thinking and problem-solving
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0F172A&height=2&section=footer" width="100%" />
+  <sub>CYBERSECURITY • TECHNOLOGY • CONTINUOUS LEARNING</sub>
+</p>

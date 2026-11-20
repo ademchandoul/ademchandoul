@@ -21,17 +21,17 @@
 └─$ whoami
 
 Cybersecurity Enthusiast
-└── Ethical Hacking
-└── Network Security
-└── Linux & System Administration
+├── Ethical Hacking
+├── Network Security
+├── Linux & System Administration
 └── Security Research
 ```
 
-I am interested in cybersecurity, ethical hacking, operating systems, and network security.
+Interested in cybersecurity, ethical hacking, operating systems, and network security.
 
-My goal is to understand how systems work, explore security vulnerabilities, and develop practical skills through continuous learning and authorized security labs.
+Focused on understanding how systems work, exploring security concepts, and developing practical technical knowledge through continuous learning and authorized security labs.
 
-**My philosophy:** Learn the fundamentals. Practice consistently. Understand the technology.
+**Philosophy:** Learn the fundamentals. Practice consistently. Understand the technology.
 
 ---
 
@@ -41,7 +41,7 @@ My goal is to understand how systems work, explore security vulnerabilities, and
   <img src="https://skillicons.dev/icons?i=kali,linux,windows&theme=dark" />
 </p>
 
-| Environment | Purpose |
+| Environment | Focus |
 |:---|:---|
 | 🐉 Kali Linux | Security learning and testing |
 | 🐧 Linux | System administration and command line |
@@ -55,7 +55,7 @@ My goal is to understand how systems work, explore security vulnerabilities, and
   <img src="https://skillicons.dev/icons?i=python,bash,git,github,vscode&theme=dark" />
 </p>
 
-**Current technical interests**
+**Technical interests**
 
 - Python — Programming fundamentals
 - Bash — Shell scripting and automation
@@ -68,8 +68,17 @@ My goal is to understand how systems work, explore security vulnerabilities, and
 ## `04` // CYBERSECURITY TOOLKIT
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Nmap-Network_Scanning-101820?style=for-the-badge&logo=linux&logoColor=9FEF00" />
-  <img src="https://img.shields.io/badge/Wireshark-Packet_Analysis-101820?style=for-the-badge&logo=wireshark&logoColor=9FEF00" />
+  <img src="https://img.shields.io/badge/SECURITY_TOOLS-RESEARCH-101820?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+</p>
+
+<p align="center">
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" height="85" alt="Nmap Logo" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.wireshark.org/assets/img/wireshark-logo.png" height="85" alt="Wireshark Logo" />
+</p>
+
+<p align="center">
+  **Nmap** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Wireshark**
 </p>
 
 <p align="center">
@@ -84,53 +93,12 @@ My goal is to understand how systems work, explore security vulnerabilities, and
 | 🔎 Network Reconnaissance | Network discovery and scanning |
 | 📡 Packet Analysis | Network traffic inspection |
 | 📶 Wireless Security | Wireless network security |
-| 🐧 Linux Security | Permissions and system configuration |
+| 🐧 System Security | Operating system protection |
 | 🛡️ Ethical Hacking | Authorized security testing |
 
 ---
 
-## `05` // LINUX FUNDAMENTALS
-
-```bash
-# File and directory management
-ls -la
-cd /etc
-pwd
-mkdir lab
-touch notes.txt
-
-# Permissions and ownership
-chmod
-chown
-
-# Text processing
-grep
-cut
-sort
-uniq
-wc
-
-# Input / Output redirection
->
->>
-2>
-|
-
-# Process management
-ps
-top
-kill
-```
-
-Building a strong foundation in Linux, shell commands, permissions, process management, and system administration.
-
----
-
-## `06` // PROJECTS & PRACTICAL LABS
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-LEARNING-101820?style=flat-square&logo=github&logoColor=9FEF00" />
-</p>
+## `05` // PROJECTS & PRACTICAL LABS
 
 A collection of practical exercises, technical documentation, and cybersecurity experiments.
 
@@ -145,20 +113,7 @@ A collection of practical exercises, technical documentation, and cybersecurity 
 
 ---
 
-## `07` // GITHUB STATISTICS
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=020617&title_color=9FEF00&icon_color=9FEF00&text_color=E2E8F0" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=020617&title_color=9FEF00&text_color=E2E8F0" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=020617&color=9FEF00&line=9FEF00&point=FFFFFF&hide_border=true" />
-</p>
-
----
-
-## `08` // PROFESSIONAL MINDSET
+## `06` // PROFESSIONAL MINDSET
 
 > Understand the system. Identify the weakness. Improve the security.
 

@@ -77,25 +77,8 @@ Python · C · Bash · SQL
 - Vulnerability discovery and analysis
 - Penetration testing methodologies
 - Linux security and privilege escalation
-- Web application security
 - Exploit and CVE research
 
-## ◈ CONNECT
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:111827,100:050505&height=100&section=footer" width="100%"/>
 
-<br/>
-
-**THINK LIKE AN ATTACKER. BUILD LIKE A DEFENDER.**
-
-</div>
-
----
-
-<div align="center">
-
-*Security research and testing conducted in authorized environments only.*
-
-</div>

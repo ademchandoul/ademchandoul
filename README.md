@@ -1,171 +1,114 @@
-# Cybersecurity | Vulnerability Analysis & Security Research
+# 🛡️ Vulnerability Analyst | Cybersecurity Consultant
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=6BCB91&center=true&vCenter=true&width=650&lines=Understanding+systems+and+their+security;Vulnerability+Analysis+%7C+Linux+%7C+Network+Security;Research.+Analyze.+Document.+Improve." alt="Introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=650&lines=Understanding+the+attack+surface.;Identifying+security+weaknesses.;Assessing+risk+before+exploitation.;Building+a+more+resilient+digital+world." alt="Cybersecurity typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-263D32?style=flat-square" />
-  <img src="https://img.shields.io/badge/Environment-Linux-263D32?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Approach-Research%20%26%20Analysis-263D32?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Vulnerability%20Assessment-00D4AA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Environment-Linux-black?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Field-Cybersecurity-blue?style=flat-square" />
 </p>
 
 ---
 
-## About
+## 🔎 About My Field
 
-Interested in cybersecurity, particularly vulnerability analysis, security assessment, and the study of operating systems and network security.
+Cybersecurity is not simply about defending systems against attacks. It is about understanding how systems can fail, identifying weaknesses before they become threats, and ensuring that digital environments remain secure and reliable.
 
-My interests include understanding how systems operate, identifying potential security weaknesses, evaluating their impact, and exploring appropriate mitigation strategies.
+As a **Vulnerability Analyst and Cybersecurity Consultant**, the focus is on discovering security weaknesses, evaluating their potential impact, and helping organizations make informed decisions to reduce their exposure to cyber threats.
 
-This GitHub profile serves as a technical space for documenting practical experiments, research, projects, and knowledge related to information security.
+Every system has an attack surface. Every vulnerability represents a potential entry point. Understanding these risks is the first step toward effective security.
 
-I value clear technical documentation, continuous learning, and a methodical approach to security.
+## 🎯 Mission & Purpose
+
+The purpose of vulnerability analysis is to move organizations from reactive security to proactive protection.
+
+- 🔍 **Identify:** Discover vulnerabilities and security misconfigurations across systems, networks, and applications.
+- 📊 **Assess:** Evaluate severity, exploitability, and potential business impact.
+- 🧠 **Analyze:** Understand attack paths, exposure, and the underlying causes of security weaknesses.
+- 🛠️ **Recommend:** Provide practical remediation strategies and security improvements.
+- 🛡️ **Strengthen:** Help organizations reduce their attack surface and improve their security posture.
+
+**Why does this profession matter?**
+
+A vulnerability discovered and addressed before exploitation can prevent data breaches, service disruptions, financial losses, and damage to an organization's reputation.
+
+Security is not only about preventing attacks. It is also about understanding risk and making systems harder to compromise.
 
 ---
 
-## Areas of Interest
+## 🐧 Linux & Security Environment
 
-| Domain | Topics |
-|:--|:--|
-| 🔍 Vulnerability Analysis | Vulnerability identification, validation, CVE, CVSS |
-| 🐧 Linux Security | Permissions, processes, shell scripting, system hardening |
-| 🌐 Network Security | TCP/IP, network protocols, traffic analysis, reconnaissance |
-| 🕸️ Web Security | HTTP, authentication, OWASP Top 10, application security |
-| 🛡️ Security Assessment | Risk evaluation, security testing, remediation |
-| 📚 Security Research | Technical documentation, investigation, responsible disclosure |
+Linux is an essential environment for cybersecurity operations. It provides the flexibility, command-line capabilities, and specialized utilities needed to investigate systems, analyze networks, and perform security assessments.
 
----
-
-## Technical Environment
-
-### Operating Systems
+My security environment revolves around:
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Terminal-black?style=flat-square&logo=linux&logoColor=white" />
 </p>
 
-### Security & Network Tools
+## ⚙️ Security Toolkit
 
-<p>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square" />
-  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square" />
-</p>
+Tools are only as effective as the analysis behind them. Different tools support different stages of security assessment.
 
-### Programming & Scripting
+| Domain | Tools | Purpose |
+|---|---|---|
+| Network Discovery | Nmap | Network mapping and service enumeration |
+| Traffic Analysis | Wireshark | Network traffic inspection |
+| Web Security | Burp Suite, OWASP ZAP | Web application security testing |
+| Vulnerability Scanning | Nessus, OpenVAS | Vulnerability discovery and assessment |
+| Security Testing | Metasploit | Authorized exploitation and validation |
+| Automated Scanning | Nuclei | Detection of known security issues |
+| Linux Operations | Bash, GNU Coreutils | System administration and automation |
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</p>
+## 🧩 Core Areas of Interest
 
----
-
-## Linux Environment
-
-Linux is an important part of my technical environment and learning process.
-
-Areas of practical interest:
-
-- File systems and directory structures
-- File permissions and ownership
-- Users, groups and access control
-- Processes and system management
-- Shell commands and pipelines
-- Input/output redirection
-- Bash scripting and automation
-- System administration and security
+- 🔐 Vulnerability Assessment & Management
+- 🌐 Network Security & Infrastructure Analysis
+- 🕸️ Web Application Security
+- 🧪 Penetration Testing Methodologies
+- 📋 Risk Assessment & Security Reporting
+- ⚠️ Threat Exposure & Attack Surface Analysis
+- 🐧 Linux Administration & Security
+- 🏢 Cybersecurity Consulting & Remediation
 
 ---
 
-## Security Methodology
+## 📂 What I Aim to Share Here
 
-A structured approach to vulnerability assessment:
+This GitHub profile is a technical space dedicated to cybersecurity knowledge, practical research, and structured documentation.
 
-```text
-01  INFORMATION GATHERING
-    └── Understand the target environment
+You can expect repositories covering:
 
-02  RECONNAISSANCE
-    └── Identify exposed services and technologies
+- Security assessment methodologies and workflows.
+- Linux commands, administration, and security practices.
+- Vulnerability analysis and technical documentation.
+- Network and web security investigations.
+- Security scripts and automation.
+- Practical labs and educational research.
 
-03  VULNERABILITY IDENTIFICATION
-    └── Investigate potential weaknesses
-
-04  VALIDATION
-    └── Verify findings in authorized environments
-
-05  RISK ANALYSIS
-    └── Evaluate severity and potential impact
-
-06  DOCUMENTATION
-    └── Record evidence and technical details
-
-07  REMEDIATION
-    └── Identify mitigation and security improvements
-```
+Each project is intended to demonstrate not only how a security tool works, but also how its results can be interpreted and translated into meaningful security improvements.
 
 ---
 
-## Projects & Technical Documentation
+## 💡 Security Philosophy
 
-This section brings together practical work and technical investigations.
+> "The objective is not just to find vulnerabilities. It is to understand their impact, communicate the risk, and help eliminate the weakness."
 
-| Project | Description |
-|:--|:--|
-| Linux Administration | Commands, permissions, processes and shell scripting |
-| Network Analysis | Network protocols, reconnaissance and packet analysis |
-| Vulnerability Assessment | Vulnerability identification and risk evaluation |
-| Web Security | Web application security concepts and testing |
-| Security Automation | Python and Bash scripting |
-| Technical Notes | Research, documentation and learning resources |
-
-*Project links will be added as repositories become available.*
-
----
-
-## Standards & References
-
-- [OWASP](https://owasp.org/) — Web application security
-- [MITRE ATT&CK](https://attack.mitre.org/) — Adversarial tactics and techniques
-- [CVE](https://www.cve.org/) — Common Vulnerabilities and Exposures
-- [NIST](https://www.nist.gov/cyberframework) — Cybersecurity Framework
-- [FIRST CVSS](https://www.first.org/cvss/) — Vulnerability severity assessment
-- [Linux Documentation](https://www.kernel.org/doc/) — Linux kernel documentation
-
----
-
-## GitHub Overview
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=6BCB91&icon_color=6BCB91" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=6BCB91" />
-</p>
-
----
-
-## Contact
-
-For technical discussions, cybersecurity research, and collaborative projects:
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+**Discover → Analyze → Assess → Remediate → Improve**
 
 ---
 
 <p align="center">
-  <sub>Continuous learning · Technical research · Responsible security</sub>
+  <img src="https://img.shields.io/badge/Think-Like%20an%20Analyst-00D4AA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Act-With%20Integrity-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Secure-By%20Design-blue?style=for-the-badge" />
+</p>
+
+<p align="center">
+  🛡️ Security begins with understanding what can go wrong.
 </p>

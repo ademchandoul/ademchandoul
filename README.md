@@ -45,16 +45,13 @@ I focus on developing practical technical skills through experimentation, securi
 <a href="https://www.cisco.com/">
   <img src="https://img.shields.io/badge/Cisco-Networking-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
 </a>
-<a href="https://www.fortinet.com/">
-  <img src="https://img.shields.io/badge/Fortinet-Firewalls-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
-</a>
 <a href="https://www.wireshark.org/">
   <img src="https://img.shields.io/badge/Wireshark-Traffic_Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=nginx,cloudflare,docker" />
+<img src="https://skillicons.dev/icons?i=cloudflare" />
 
 </div>
 

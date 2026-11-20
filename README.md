@@ -1,4 +1,4 @@
-  #Cybersecurity Consultant | Exploit Researcher
+#Cybersecurity Consultant | Exploit Researcher
 
 <div align="center">
 

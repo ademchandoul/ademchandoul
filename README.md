@@ -1,4 +1,18 @@
-# ⚡ Cybersecurity | Security Research ⚡
+<div align="center">
+
+<h1>SECURITY RESEARCHER</h1>
+
+<p>
+  <img src="https://img.shields.io/badge/CYBERSECURITY-00D9FF?style=flat-square&labelColor=050505" />
+  <img src="https://img.shields.io/badge/REVERSE_ENGINEERING-00D9FF?style=flat-square&labelColor=050505" />
+  <img src="https://img.shields.io/badge/EXPLOIT_ANALYSIS-00D9FF?style=flat-square&labelColor=050505" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:111827,100:00D9FF&height=3&section=header" width="65%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Penetration+Testing;Vulnerability+Research;Malware+Analysis;Network+Security" />
+
+</div>
 
 <div align="center">
 

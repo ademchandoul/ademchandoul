@@ -1,42 +1,51 @@
-# ⚡ Cybersecurity Consultant | Exploit Researcher
+# ⚡ CYBERSECURITY | SECURITY RESEARCH
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:00D9FF&height=180&section=header&text=SECURITY%20RESEARCH&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img src="assets/cyber-banner.png" width="100%" alt="Cybersecurity Research Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Penetration+Testing;Vulnerability+Research+%7C+Exploit+Analysis;Linux+%7C+Networking+%7C+Python"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Cybersecurity+%7C+Penetration+Testing;Vulnerability+Research+%7C+Exploit+Analysis;Linux+%7C+Networking+%7C+Python"/>
+
+<br/>
+
+![Security](https://img.shields.io/badge/SECURITY-RESEARCH-00D9FF?style=for-the-badge)
+![Testing](https://img.shields.io/badge/PENETRATION-TESTING-111827?style=for-the-badge)
+![Research](https://img.shields.io/badge/EXPLOIT-ANALYSIS-00D9FF?style=for-the-badge)
 
 </div>
 
-## ◈ PROFILE
+---
+
+## ◈ 01 / PROFILE
 
 Cybersecurity enthusiast focused on security assessment, vulnerability research, penetration testing, and exploit analysis.
 
 Interested in understanding attack surfaces, identifying security weaknesses, analyzing exploitation techniques, and strengthening digital infrastructure.
 
-## ◈ TECHNICAL SKILLS
+## ◈ 02 / TECHNICAL SKILLS
 
-**Security:** Penetration Testing · Vulnerability Assessment · Exploit Research · Web Security · Network Security
+| SECURITY | SYSTEMS | PROGRAMMING |
+|:---:|:---:|:---:|
+| Penetration Testing | Linux | Python |
+| Vulnerability Assessment | Kali Linux | C |
+| Exploit Research | Bash | SQL |
+| Web Security | Networking | JavaScript |
+| Network Security | TCP/IP | Git |
 
-**Systems:** Linux · Kali Linux · Bash · Networking · TCP/IP
+## ◈ 03 / SECURITY TOOLKIT
 
-**Programming:** Python · C · Bash · SQL
+<div align="center">
 
-## ◈ SECURITY TOOLKIT
+<a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/></a>
+<a href="https://nmap.org/"><img src="https://img.shields.io/badge/Nmap-1679A7?style=for-the-badge&logo=linux&logoColor=white"/></a>
+<a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/></a>
+<a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/></a>
+<a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=linux,bash,python,c,git,docker"/>
-</p>
+</div>
 
-<p align="left">
-<a href="https://nmap.org/"><img src="https://img.shields.io/badge/Nmap-Scanning-1679A7?style=flat-square"/></a>
-<a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/Burp_Suite-Web_Security-FF6633?style=flat-square"/></a>
-<a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-Traffic_Analysis-1679A7?style=flat-square"/></a>
-<a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/Metasploit-Exploitation-2596CD?style=flat-square"/></a>
-<a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-Security-557C94?style=flat-square"/></a>
-</p>
-
-## ◈ CURRENT FOCUS
+## ◈ 04 / CURRENT FOCUS
 
 - Vulnerability discovery and analysis
 - Penetration testing methodologies
@@ -44,19 +53,28 @@ Interested in understanding attack surfaces, identifying security weaknesses, an
 - Web application security
 - Exploit and CVE research
 
-## ◈ CONNECT
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+## ◈ 05 / CONNECT
 
 <div align="center">
 
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**THINK LIKE AN ATTACKER. BUILD LIKE A DEFENDER.**
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:111827,100:050505&height=100&section=footer"/>
 
-<sub>THINK LIKE AN ATTACKER. BUILD LIKE A DEFENDER.</sub>
+<sub>SECURITY • RESEARCH • INNOVATION</sub>
 
 </div>
 
 ---
 
-*Security research and testing conducted in authorized environments only.*
+<sub>Security research and testing conducted in authorized environments only.</sub>

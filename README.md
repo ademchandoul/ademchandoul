@@ -100,7 +100,7 @@ Some tools I'm getting familiar with:
 
 <div align="center">
 
-**Learning step by step.**
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:111827,100:050505&height=100&section=footer" width="100%" />
 

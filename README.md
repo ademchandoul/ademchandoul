@@ -1,204 +1,183 @@
-
-<!-- ====================================== -->
-<!--          ADEM CHANDOUL PROFILE         -->
-<!-- ====================================== -->
+<!-- ADEM CHANDOUL | CYBERSECURITY PROFILE -->
 
 <div align="center">
 
-<img src="assets/cybersecurity.gif" width="100%" alt="Cybersecurity Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:050505,50:003B20,100:00FF41&text=ADEM%20CHANDOUL&fontColor=FFFFFF&fontSize=55&animation=fadeIn&fontAlignY=45&desc=CYBERSECURITY%20%7C%20ETHICAL%20HACKING%20%7C%20SECURITY%20RESEARCH&descAlignY=68&descSize=14"/>
 
-# ⚡ ADEM CHANDOUL
-
-### `CYBERSECURITY | ETHICAL HACKING | NETWORK SECURITY`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Understanding+the+Art+of+Cybersecurity;Exploring+Vulnerabilities+%26+Exploitation;Learning+Network+Security;Think+Like+an+Attacker+%7C+Defend+Like+a+Professional" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=17&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=750&lines=EXPLORE+THE+DIGITAL+FRONTIER;UNDERSTAND+THE+ART+OF+EXPLOITATION;DISCOVER+VULNERABILITIES;DEFEND+THE+DIGITAL+WORLD;THINK+BEYOND+THE+THREAT" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Focus-Cybersecurity-00ff41?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-<img src="https://img.shields.io/badge/Field-Network_Security-00ff41?style=for-the-badge&logo=cisco&logoColor=black"/>
-<img src="https://img.shields.io/badge/Mindset-Continuous_Learning-00ff41?style=for-the-badge"/>
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ademchandoul)
+<img src="https://img.shields.io/badge/IDENTITY-CYBERSECURITY-00FF41?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/FOCUS-SECURITY_RESEARCH-00FF41?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/MINDSET-ETHICAL_HACKING-00FF41?style=for-the-badge&labelColor=050505"/>
 
 </div>
 
 ---
 
-## 🧠 WHO AM I?
+# ◈ THE DIGITAL FRONTIER
 
-```python
-class CybersecurityProfessional:
-    def __init__(self):
-        self.name = "Adem Chandoul"
-        self.role = "Cybersecurity Enthusiast"
-        self.focus = [
-            "Network Security",
-            "Ethical Hacking",
-            "Vulnerability Research",
-            "Security Analysis",
-            "Exploitation Fundamentals"
-        ]
+**Welcome to my cybersecurity world.**
 
-        self.languages = ["Python", "C", "Bash"]
-        self.environment = ["Linux", "Kali Linux"]
+I am Adem Chandoul, an aspiring cybersecurity professional fascinated by the technologies, intelligence, and techniques that shape the digital security landscape.
 
-    def mission(self):
-        return "Learn, Analyze, Secure, Improve."
+My passion lies in exploring how digital systems operate, understanding how vulnerabilities emerge, studying sophisticated attack techniques, and discovering how modern infrastructure can be protected.
 
-adem = CybersecurityProfessional()
-```
-
-I'm passionate about understanding how systems work,
-how vulnerabilities emerge, and how security weaknesses
-can be identified, analyzed, and mitigated.
-
-My journey focuses on cybersecurity fundamentals,
-network security, ethical hacking, and practical research.
+I believe that understanding the threat is the first step toward building stronger defenses.
 
 ---
 
-## 🔐 CYBERSECURITY INTERESTS
+# ⚔️ OFFENSIVE SECURITY
 
-<table>
-<tr>
-<td width="50%">
-
-### ⚔️ Offensive Security
+*Understanding the attack surface.*
 
 - Ethical Hacking
 - Penetration Testing
-- Vulnerability Research
-- Exploitation Fundamentals
+- Exploit Research
+- Vulnerability Discovery
+- Attack Surface Analysis
+- Web Application Security
 - Network Reconnaissance
-- Security Testing
+- Security Assessment
 
-</td>
-<td width="50%">
+# 🛡️ DEFENSIVE SECURITY
 
-### 🛡️ Defensive Security
+*Building stronger digital environments.*
 
-- Network Protection
-- Linux Security
+- Network Defense
+- Infrastructure Security
+- Threat Detection
 - Security Monitoring
+- Incident Response
+- Digital Forensics
+- Risk Analysis
+- Security Architecture
+
+# ◈ CYBERSECURITY INTELLIGENCE
+
+*Exploring the technologies behind modern threats.*
+
+- Threat Intelligence
+- Malware Analysis
+- Vulnerability Intelligence
+- Digital Investigation
+- Attack Techniques & Tactics
+- Security Research
 - Risk Assessment
-- Vulnerability Mitigation
-- Security Advisory
-
-</td>
-</tr>
-</table>
+- Defensive Strategies
 
 ---
 
-## 💻 TECHNICAL ARSENAL
+# 🌐 NETWORK & INFRASTRUCTURE SECURITY
 
-### Programming & Scripting
+The digital world depends on interconnected systems. Understanding their architecture is essential to protecting them.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,bash&theme=dark"/>
-</p>
+Areas of interest:
 
-### Operating Systems & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,kali,git,github,vscode&theme=dark"/>
-</p>
-
-### Core Knowledge
-
-<p align="center">
-<img src="https://img.shields.io/badge/TCP%2FIP-Networking-00ff41?style=flat-square"/>
-<img src="https://img.shields.io/badge/Linux-Administration-00ff41?style=flat-square"/>
-<img src="https://img.shields.io/badge/Python-Automation-00ff41?style=flat-square"/>
-<img src="https://img.shields.io/badge/Network-Security-00ff41?style=flat-square"/>
-</p>
+- Network Architecture & Infrastructure
+- TCP/IP Protocol Security
+- Firewalls & Access Control
+- Network Traffic Analysis
+- Secure Communications
+- Intrusion Detection Systems
+- Network Monitoring
+- Infrastructure Hardening
 
 ---
 
-## 🚀 PROJECTS & SECURITY RESEARCH
+# 🔬 SECURITY TECHNOLOGIES
 
-My goal is to build practical cybersecurity tools and document
-my technical learning journey.
+**Exploring the cybersecurity ecosystem**
 
-| Project | Description |
+| Domain | Technologies |
 |---|---|
-| Python Network Scanner | Network discovery and analysis |
-| Linux Security Audit | Basic Linux security assessment |
-| TCP Port Scanner | Understanding TCP ports and connections |
-| Network Traffic Analyzer | Learning packet analysis |
-| Vulnerability Research Lab | Educational vulnerability analysis |
+| Network Discovery | Nmap |
+| Traffic Analysis | Wireshark |
+| Web Security | Burp Suite |
+| Penetration Testing | Metasploit |
+| Security Monitoring | Wazuh, Splunk |
+| Digital Forensics | Autopsy |
+| Operating Systems | Linux, Kali Linux |
+| Threat Intelligence | MITRE ATT&CK |
 
-*Projects will be linked here as they are completed and documented.*
-
----
-
-## 📚 CURRENT LEARNING PATH
-
-- [x] Linux Fundamentals
-- [x] Networking Fundamentals
-- [ ] Advanced TCP/IP
-- [ ] Python for Cybersecurity
-- [ ] Network Scanning
-- [ ] Vulnerability Assessment
-- [ ] Penetration Testing Fundamentals
-- [ ] Security Research & Analysis
+*Technology interests and learning areas — not a claim of mastery.*
 
 ---
 
-## 📊 GITHUB STATISTICS
+# 🧬 THE SECURITY MINDSET
+
+**01 — RECONNAISSANCE**
+
+Understanding digital environments and identifying potential exposure.
+
+**02 — ANALYSIS**
+
+Investigating weaknesses, attack surfaces, and security configurations.
+
+**03 — EXPLOITATION**
+
+Studying vulnerability exploitation in controlled and authorized environments.
+
+**04 — DEFENSE**
+
+Understanding mitigation, protection, and security improvements.
+
+**05 — INTELLIGENCE**
+
+Turning technical observations into meaningful security knowledge.
+
+---
+
+# 🛰️ MY CYBERSECURITY INTERESTS
+
+My long-term ambition is to grow in the fields of:
+
+- Cybersecurity Research
+- Ethical Hacking
+- Exploitation & Vulnerability Analysis
+- Network Security
+- Security Consulting & Advisory
+- Digital Infrastructure Protection
+
+---
+
+# 🏴 THE PHILOSOPHY
+
+> "The strongest defense begins with understanding how an attack works."
+
+> "Every system has an attack surface. Every weakness deserves investigation."
+
+> "Knowledge is the weapon. Responsibility is the rule."
+
+---
+
+# ⚖️ ETHICAL FOUNDATION
+
+Cybersecurity knowledge comes with responsibility.
+
+I believe in authorized security testing, responsible vulnerability disclosure, respect for privacy, and using technical knowledge to protect digital environments.
+
+---
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ademchandoul&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:003B20,100:00FF41"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademchandoul&layout=compact&theme=chartreuse-dark&hide_border=true" />
+### ◈ ADEM CHANDOUL
 
-<br/>
+**CYBERSECURITY • RESEARCH • INTELLIGENCE • DEFENSE**
 
-<img src="https://streak-stats.demolab.com?user=ademchandoul&theme=chartreuse-dark&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 MY SECURITY MINDSET
-
-> "Security is not a product, but a process."
-
-> "Every vulnerability is an opportunity to understand how systems fail and how to make them stronger."
-
-> "Think like an attacker. Analyze like a researcher. Defend like a professional."
-
----
-
-## ⚖️ ETHICAL PRINCIPLES
-
-- All security testing must be authorized.
-- Research should contribute to safer systems.
-- Vulnerabilities should be responsibly disclosed.
-- Knowledge should be used to protect, not harm.
-
----
-
-## 📡 CONNECT WITH ME
-
-<div align="center">
+<img src="https://img.shields.io/badge/STATUS-ON_THE_JOURNEY-00FF41?style=for-the-badge&labelColor=050505"/>
 
 <a href="https://github.com/ademchandoul">
-<img src="https://img.shields.io/badge/GitHub-ademchandoul-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/ENTER_MY_GITHUB-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ademchandoul&style=for-the-badge&color=00ff41" alt="Profile Views"/>
+*"Think like an attacker. Understand like a researcher. Protect like a professional."*
 
-<br/><br/>
-
-### `LEARN • EXPLORE • ANALYZE • SECURE`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=The+journey+into+cybersecurity+never+ends." />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003B20,100:00FF41&height=100&section=footer"/>
 
 </div>

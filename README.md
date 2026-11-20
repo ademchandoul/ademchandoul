@@ -1,77 +1,69 @@
-# 🛡️ Beyond the Surface
+# ⌬ THE BLIND SPOT.
 
-### Vulnerability Analyst · Cybersecurity Consultant
+### Seeing beyond the surface.
 
-<p align="center">
-  <i>"Every system tells a story. My job is to discover what it reveals about its security."</i>
-</p>
+**Vulnerability Analyst | Cybersecurity Consultant**
 
----
-
-## A Different Perspective on Security
-
-I believe cybersecurity starts long before an attack happens.
-
-Behind every application, network, and infrastructure lies a complex structure of technologies, configurations, and trust. Sometimes, a small overlooked weakness is all it takes to compromise an entire environment.
-
-This is where vulnerability analysis comes in.
-
-My interest lies in understanding these weaknesses, investigating how they emerge, evaluating the risks they create, and helping organizations make better security decisions.
-
-For me, cybersecurity is not about collecting tools or running commands. It is about developing the mindset to question, investigate, understand, and improve.
-
-## 🔍 The Work Behind the Security
-
-**Discover what others overlook.**
-
-Explore systems, identify weaknesses, and understand the conditions that make them vulnerable.
-
-**Understand before judging.**
-
-A vulnerability is more than a finding. Its real importance depends on its context, exposure, exploitability, and potential impact.
-
-**Turn technical findings into decisions.**
-
-Security analysis has little value if its results cannot be understood and acted upon. Clear reporting and practical remediation are part of the job.
-
-**Build stronger environments.**
-
-The ultimate objective is not simply to find problems. It is to help prevent them from becoming incidents.
-
-## 🐧 My Working Environment
-
-Linux is more than an operating system in my workflow. It is an environment for exploration, investigation, automation, and technical understanding.
-
-`Kali Linux` · `Bash` · `Networking` · `System Administration`
-
-## ⚙️ Instruments of Investigation
-
-- Network discovery — Nmap
-- Traffic investigation — Wireshark
-- Web security analysis — Burp Suite
-- Vulnerability assessment — Nessus / OpenVAS
-- Security validation — Metasploit
-- Automation and scripting — Bash / Python
-
-Tools are not the objective. Understanding what they reveal is.
-
-## 🧠 How I Approach a Problem
-
-`Observe → Question → Investigate → Understand → Evaluate → Improve`
-
-I value curiosity, critical thinking, technical discipline, ethical responsibility, and continuous learning.
-
-## 🌐 What This Space Represents
-
-This is where I document my technical journey, security research, Linux experiments, assessment methodologies, and practical cybersecurity projects.
-
-Not just what works, but why it works, what can go wrong, and how it can be improved.
+> Every system has a weakness. Not every weakness is visible.
 
 ---
 
-<p align="center">
-  <b>Security is not the absence of weaknesses.</b><br/>
-  <i>It is the ability to discover, understand, and address them.</i>
-</p>
+## 01 — The Perspective
 
-<p align="center">🔐 Think critically. Investigate deeply. Secure responsibly.</p>
+Cybersecurity is an ongoing investigation into trust, exposure, and uncertainty.
+
+I am interested in understanding what happens beneath the surface of digital systems: the configurations that are overlooked, the weaknesses that go unnoticed, and the risks that emerge when security assumptions are left unchallenged.
+
+As a Vulnerability Analyst and aspiring Cybersecurity Consultant, my focus is on identifying vulnerabilities, understanding their implications, evaluating risk, and contributing to stronger digital environments.
+
+I believe effective security requires more than technical knowledge. It requires curiosity, critical thinking, precision, and the ability to turn findings into meaningful action.
+
+## 02 — The Discipline
+
+| Perspective | Objective |
+|---|---|
+| 🔎 Discovery | Identify weaknesses and exposures |
+| 🧠 Investigation | Understand root causes |
+| ⚠️ Assessment | Evaluate severity and impact |
+| 📊 Analysis | Interpret technical findings |
+| 🛡️ Remediation | Recommend security improvements |
+
+## 03 — The Environment
+
+🐧 Linux · Kali Linux · Debian  
+⌨️ Bash · Python · Shell Scripting  
+🌐 Networking · TCP/IP · DNS  
+🔐 System Security · Web Security
+
+## 04 — The Instruments
+
+**Network & Traffic:** Nmap, Wireshark
+
+**Web Security:** Burp Suite, OWASP ZAP
+
+**Vulnerability Assessment:** Nessus, OpenVAS, Nuclei
+
+**Security Validation:** Metasploit
+
+**Automation:** Bash, Python
+
+## 05 — Areas of Exploration
+
+- Vulnerability Assessment & Management
+- Network and Infrastructure Security
+- Web Application Security
+- Linux Security and Administration
+- Risk Analysis and Technical Reporting
+- Security Research and Automation
+
+## 06 — The Laboratory
+
+This space documents practical experiments, technical investigations, security methodologies, Linux exercises, and lessons learned.
+
+The objective is to understand not only how a weakness exists, but why it matters and how it can be addressed.
+
+## 07 — The Principle
+
+> A vulnerability is not just a technical flaw. It is an opportunity to understand a system more deeply and make it stronger.
+
+**Observe carefully. Question assumptions. Investigate responsibly.**

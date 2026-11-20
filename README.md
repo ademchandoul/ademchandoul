@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Penetration+Testing;Vulnerability+Research+%7C+Exploit+Analysis;Linux+%7C+Networking+%7C+Python" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Penetration+Testing;Vulnerability+Research+%7C+Exploit+Analysis;Malware+Analysis+%7C+Network+Security" />
 
 </div>
 
@@ -14,24 +14,23 @@
 
 ## ◈ 01 / PROFILE
 
-Cybersecurity enthusiast focused on security assessment, vulnerability research, penetration testing, and exploit analysis.
+Cybersecurity enthusiast focused on security assessment, vulnerability research, penetration testing, malware analysis, and exploit research.
 
-Interested in understanding attack surfaces, identifying security weaknesses, analyzing exploitation techniques, and strengthening digital infrastructure.
+Interested in identifying vulnerabilities, analyzing malicious software, understanding attack techniques, and strengthening digital infrastructure.
 
 ---
 
-## ◈ 02 / COMPUTER SYSTEMS & ARCHITECTURE
+## ◈ 02 / SYSTEMS & ENVIRONMENTS
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,docker,git" />
+<img src="https://skillicons.dev/icons?i=windows,linux,kali,ubuntu,debian,docker" />
 
 </div>
 
-- Computer architecture and hardware fundamentals
-- Operating systems and system administration
-- Linux environments and command-line operations
-- Virtualization and virtual machines
+- Linux and Windows environments
+- System administration and command-line operations
+- Virtualization and isolated analysis environments
 - Docker and containerization
 
 ---
@@ -89,17 +88,55 @@ Interested in understanding attack surfaces, identifying security weaknesses, an
 
 ---
 
-## ◈ 05 / PROGRAMMING & SECURITY TOOLKIT
+## ◈ 05 / MALWARE ANALYSIS & REVERSE ENGINEERING
 
 <div align="center">
 
-### Programming & Development
+<a href="https://ghidra-sre.org/">
+<img src="https://img.shields.io/badge/Ghidra-Reverse_Engineering-CC0000?style=for-the-badge"/>
+</a>
+<a href="https://www.virustotal.com/">
+<img src="https://img.shields.io/badge/VirusTotal-Malware_Research-394EFF?style=for-the-badge"/>
+</a>
+<a href="https://www.osquery.io/">
+<img src="https://img.shields.io/badge/osquery-System_Analysis-00AEEF?style=for-the-badge"/>
+</a>
 
-<img src="https://skillicons.dev/icons?i=python,c,bash,sql,git" />
+</div>
+
+- Static and dynamic malware analysis
+- Malware behavior investigation
+- Suspicious file and executable analysis
+- Reverse engineering fundamentals
+- Indicators of Compromise (IOCs)
+- Windows and Linux security investigation
+
+---
+
+## ◈ 06 / PROGRAMMING & DEVELOPMENT
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,bash,js,html,css" />
 
 <br/><br/>
 
-### Security Tools
+| Language | Application |
+|:---|:---|
+| Python | Security automation and scripting |
+| C | Low-level programming and memory concepts |
+| Bash | Linux administration and automation |
+| JavaScript | Web development and application security |
+| HTML | Web structure |
+| CSS | Web styling |
+
+</div>
+
+---
+
+## ◈ 07 / SECURITY TOOLKIT
+
+<div align="center">
 
 <a href="https://nmap.org/">
 <img src="https://img.shields.io/badge/Nmap-Network_Scanning-1679A7?style=for-the-badge"/>
@@ -121,13 +158,13 @@ Interested in understanding attack surfaces, identifying security weaknesses, an
 
 ---
 
-## ◈ 06 / CURRENT FOCUS
+## ◈ 08 / CURRENT FOCUS
 
-- Vulnerability discovery and analysis
-- Network infrastructure and security
-- Cisco networking and firewall technologies
-- Penetration testing and exploit research
-- Linux administration and security
+- Malware analysis and reverse engineering
+- Vulnerability discovery and exploit research
+- Network infrastructure and firewall technologies
+- Penetration testing methodologies
+- Linux and Windows security
 
 ---
 
@@ -137,7 +174,7 @@ Interested in understanding attack surfaces, identifying security weaknesses, an
 
 **THINK LIKE AN ATTACKER. BUILD LIKE A DEFENDER.**
 
-<sub>CYBERSECURITY • NETWORKING • RESEARCH • INNOVATION</sub>
+<sub>CYBERSECURITY • MALWARE ANALYSIS • NETWORKING • RESEARCH</sub>
 
 </div>
 

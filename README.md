@@ -1,83 +1,63 @@
-# 👨‍💻 Cybersecurity | Vulnerability Analysis & Security Consulting
+# Cybersecurity | Vulnerability Analysis & Security Research
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=750&lines=Vulnerability+Analysis+%26+Research;Linux+%7C+Network+Security+%7C+Penetration+Testing;Identify.+Analyze.+Understand.+Secure." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=6BCB91&center=true&vCenter=true&width=650&lines=Understanding+systems+and+their+security;Vulnerability+Analysis+%7C+Linux+%7C+Network+Security;Research.+Analyze.+Document.+Improve." alt="Introduction" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Vulnerability%20Analysis-00FF9C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Environment-Linux-black?style=flat-square&logo=linux" />
-  <img src="https://img.shields.io/badge/Approach-Research%20%26%20Defense-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-263D32?style=flat-square" />
+  <img src="https://img.shields.io/badge/Environment-Linux-263D32?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Approach-Research%20%26%20Analysis-263D32?style=flat-square" />
 </p>
 
 ---
 
-## `whoami`
+## About
 
-I am a cybersecurity enthusiast focused on **Vulnerability Analysis, Security Research, and Security Consulting**, with a strong interest in understanding how systems, networks, and applications behave under security assessments.
+Interested in cybersecurity, particularly vulnerability analysis, security assessment, and the study of operating systems and network security.
 
-My approach combines technical investigation, structured analysis, and practical security testing to identify weaknesses, understand their impact, and explore effective mitigation strategies.
+My interests include understanding how systems operate, identifying potential security weaknesses, evaluating their impact, and exploring appropriate mitigation strategies.
 
-I believe cybersecurity is not simply about finding vulnerabilities. It is about understanding the underlying problem, evaluating its real-world implications, and helping build more resilient systems.
+This GitHub profile serves as a technical space for documenting practical experiments, research, projects, and knowledge related to information security.
 
-**My philosophy:**
-> Understand the system. Challenge its security. Document the weaknesses. Strengthen its defenses.
+I value clear technical documentation, continuous learning, and a methodical approach to security.
 
 ---
 
-## ⚔️ Areas of Focus
+## Areas of Interest
 
-| Domain | Focus |
+| Domain | Topics |
 |:--|:--|
-| 🔍 Vulnerability Analysis | Identification, validation, severity assessment |
-| 🌐 Network Security | Network reconnaissance, traffic analysis, protocols |
-| 🛡️ Penetration Testing | Authorized security assessments |
-| 🐧 Linux Security | System administration, permissions, processes, hardening |
-| 🌍 Web Application Security | OWASP Top 10, HTTP, authentication, web vulnerabilities |
-| 🔬 Security Research | Technical investigation and vulnerability analysis |
-| 📋 Security Consulting | Risk assessment, technical documentation, remediation |
+| 🔍 Vulnerability Analysis | Vulnerability identification, validation, CVE, CVSS |
+| 🐧 Linux Security | Permissions, processes, shell scripting, system hardening |
+| 🌐 Network Security | TCP/IP, network protocols, traffic analysis, reconnaissance |
+| 🕸️ Web Security | HTTP, authentication, OWASP Top 10, application security |
+| 🛡️ Security Assessment | Risk evaluation, security testing, remediation |
+| 📚 Security Research | Technical documentation, investigation, responsible disclosure |
 
 ---
 
-## 🐧 Linux & Security Toolkit
+## Technical Environment
 
-### Operating Systems & Environments
+### Operating Systems
 
 <p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 </p>
 
-### 🔎 Reconnaissance & Network Analysis
+### Security & Network Tools
 
 <p>
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netcat-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tcpdump-444444?style=flat-square" />
-</p>
-
-### 🕸️ Web Security & Vulnerability Assessment
-
-<p>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square" />
   <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Nikto-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/SQLmap-CC0000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Nuclei-5B4BDB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Gobuster-444444?style=flat-square" />
 </p>
 
-### 💥 Exploitation & Security Testing
-
-<p>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/John_the_Ripper-444444?style=flat-square" />
-  <img src="https://img.shields.io/badge/Hashcat-222222?style=flat-square" />
-</p>
-
-### ⚙️ Programming & Scripting
+### Programming & Scripting
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -86,114 +66,106 @@ I believe cybersecurity is not simply about finding vulnerabilities. It is about
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-*Tool selection reflects areas of interest and hands-on work; it does not imply professional proficiency in every listed tool.*
+---
+
+## Linux Environment
+
+Linux is an important part of my technical environment and learning process.
+
+Areas of practical interest:
+
+- File systems and directory structures
+- File permissions and ownership
+- Users, groups and access control
+- Processes and system management
+- Shell commands and pipelines
+- Input/output redirection
+- Bash scripting and automation
+- System administration and security
 
 ---
 
-## 🧬 Security Methodology
+## Security Methodology
 
-My preferred approach to a security assessment:
+A structured approach to vulnerability assessment:
 
 ```text
-01  RECONNAISSANCE
-    └── Understand the target and its attack surface
+01  INFORMATION GATHERING
+    └── Understand the target environment
 
-02  ENUMERATION
-    └── Identify services, technologies and entry points
+02  RECONNAISSANCE
+    └── Identify exposed services and technologies
 
 03  VULNERABILITY IDENTIFICATION
-    └── Investigate potential security weaknesses
+    └── Investigate potential weaknesses
 
 04  VALIDATION
-    └── Verify findings in an authorized environment
+    └── Verify findings in authorized environments
 
-05  RISK ASSESSMENT
-    └── Evaluate severity, impact and exploitability
+05  RISK ANALYSIS
+    └── Evaluate severity and potential impact
 
-06  REPORTING
-    └── Document evidence and technical findings
+06  DOCUMENTATION
+    └── Record evidence and technical details
 
 07  REMEDIATION
-    └── Recommend practical security improvements
+    └── Identify mitigation and security improvements
 ```
 
 ---
 
-## 📂 Featured Security Work
+## Projects & Technical Documentation
 
-I use GitHub to document technical investigations, practical labs, Linux experiments, security scripts, and research.
+This section brings together practical work and technical investigations.
 
 | Project | Description |
 |:--|:--|
-| 🐧 Linux Security Lab | Linux commands, permissions, processes and system administration |
-| 🔍 Vulnerability Research | Technical investigations and vulnerability analysis |
-| 🌐 Network Analysis | Network reconnaissance and traffic inspection |
-| 🕸️ Web Security Lab | Web application security testing and OWASP concepts |
-| ⚙️ Security Automation | Python and Bash utilities for security workflows |
-| 📋 Security Reports | Structured findings, impact analysis and remediation |
+| Linux Administration | Commands, permissions, processes and shell scripting |
+| Network Analysis | Network protocols, reconnaissance and packet analysis |
+| Vulnerability Assessment | Vulnerability identification and risk evaluation |
+| Web Security | Web application security concepts and testing |
+| Security Automation | Python and Bash scripting |
+| Technical Notes | Research, documentation and learning resources |
 
-*Replace these descriptions with links to your actual repositories as you publish them.*
-
----
-
-## 📚 Technical Interests
-
-- Common Vulnerabilities and Exposures (CVE)
-- Common Vulnerability Scoring System (CVSS)
-- OWASP Top 10
-- MITRE ATT&CK Framework
-- Linux internals and system security
-- TCP/IP and network protocols
-- Authentication and access control
-- Security assessment and remediation
-- Vulnerability disclosure and responsible research
+*Project links will be added as repositories become available.*
 
 ---
 
-## 📊 GitHub Activity
+## Standards & References
+
+- [OWASP](https://owasp.org/) — Web application security
+- [MITRE ATT&CK](https://attack.mitre.org/) — Adversarial tactics and techniques
+- [CVE](https://www.cve.org/) — Common Vulnerabilities and Exposures
+- [NIST](https://www.nist.gov/cyberframework) — Cybersecurity Framework
+- [FIRST CVSS](https://www.first.org/cvss/) — Vulnerability severity assessment
+- [Linux Documentation](https://www.kernel.org/doc/) — Linux kernel documentation
+
+---
+
+## GitHub Overview
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00FF9C&icon_color=00FF9C&text_color=9CA3AF" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=00FF9C&text_color=9CA3AF" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=6BCB91&icon_color=6BCB91" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=6BCB91" />
 </p>
 
 ---
 
-## 🎯 Current Direction
+## Contact
 
-- Deepening Linux and system security knowledge.
-- Developing practical vulnerability assessment skills.
-- Exploring network and web application security.
-- Building Python and Bash tools for security automation.
-- Documenting technical research and practical findings.
-
----
-
-## 🤝 Connect & Collaborate
-
-Interested in cybersecurity research, vulnerability analysis, Linux, and responsible security testing.
-
-Open to technical discussions, knowledge sharing, and collaboration on cybersecurity projects.
+For technical discussions, cybersecurity research, and collaborative projects:
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Think%20Like%20An%20Attacker-Understand%20Like%20An%20Analyst-00FF9C?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <i>Security is a continuous process, not a final destination.</i>
+  <sub>Continuous learning · Technical research · Responsible security</sub>
 </p>

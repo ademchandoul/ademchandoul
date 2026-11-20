@@ -1,69 +1,92 @@
-# ⌬ THE BLIND SPOT.
+# 🛡️ Cybersecurity | Vulnerability Analysis & Consulting
 
-### Seeing beyond the surface.
+### Security is never an assumption. It is something you continuously verify.
 
-**Vulnerability Analyst | Cybersecurity Consultant**
-
-> Every system has a weakness. Not every weakness is visible.
+**Vulnerability Analyst · Cybersecurity Consultant**
 
 ---
 
-## 01 — The Perspective
+## The Importance of Cybersecurity
 
-Cybersecurity is an ongoing investigation into trust, exposure, and uncertainty.
+The modern world runs on interconnected systems. Businesses depend on digital infrastructure, organizations manage sensitive information, and essential services rely on technology to operate.
 
-I am interested in understanding what happens beneath the surface of digital systems: the configurations that are overlooked, the weaknesses that go unnoticed, and the risks that emerge when security assumptions are left unchallenged.
+But connectivity creates exposure.
 
-As a Vulnerability Analyst and aspiring Cybersecurity Consultant, my focus is on identifying vulnerabilities, understanding their implications, evaluating risk, and contributing to stronger digital environments.
+A misconfigured server, an outdated application, or an overlooked vulnerability can become the starting point of a security incident. The consequences extend beyond technology: financial losses, operational disruption, data exposure, and damaged trust.
 
-I believe effective security requires more than technical knowledge. It requires curiosity, critical thinking, precision, and the ability to turn findings into meaningful action.
+**Cybersecurity exists to protect more than systems. It protects the continuity, integrity, and trust on which organizations depend.**
 
-## 02 — The Discipline
+As digital threats evolve, organizations need professionals who can identify weaknesses, understand their implications, evaluate risks, and translate technical findings into effective security decisions.
 
-| Perspective | Objective |
-|---|---|
-| 🔎 Discovery | Identify weaknesses and exposures |
-| 🧠 Investigation | Understand root causes |
-| ⚠️ Assessment | Evaluate severity and impact |
-| 📊 Analysis | Interpret technical findings |
-| 🛡️ Remediation | Recommend security improvements |
+## What I Focus On
 
-## 03 — The Environment
+My focus is vulnerability analysis and security consulting: understanding where systems are exposed, determining why weaknesses matter, and helping organizations improve their security posture.
 
-🐧 Linux · Kali Linux · Debian  
-⌨️ Bash · Python · Shell Scripting  
-🌐 Networking · TCP/IP · DNS  
-🔐 System Security · Web Security
+- **Vulnerability Assessment** — Identifying weaknesses across networks, systems, and applications.
+- **Security Analysis** — Investigating vulnerabilities, configurations, exposure, and potential attack paths.
+- **Risk Evaluation** — Assessing severity, exploitability, and business impact.
+- **Security Consulting** — Communicating findings and recommending practical, prioritized remediation.
+- **Continuous Improvement** — Supporting stronger security practices and more resilient infrastructures.
 
-## 04 — The Instruments
+## Technical Environment & Toolkit
 
-**Network & Traffic:** Nmap, Wireshark
+My approach combines Linux-based operations, scripting, network analysis, and security assessment.
 
-**Web Security:** Burp Suite, OWASP ZAP
+**🐧 Operating Systems & Administration**
+- Kali Linux · Debian · Ubuntu
+- Linux command line and system administration
+- File permissions, processes, services, and system security
 
-**Vulnerability Assessment:** Nessus, OpenVAS, Nuclei
+**⌨️ Programming & Automation**
+- Bash — Shell scripting and security task automation
+- Python — Scripting, data processing, and security utilities
+- Git & GitHub — Version control and technical documentation
 
-**Security Validation:** Metasploit
+**🌐 Networking & Analysis**
+- TCP/IP · DNS · HTTP/HTTPS
+- Nmap — Network discovery and service enumeration
+- Wireshark — Network traffic analysis
 
-**Automation:** Bash, Python
+**🔎 Vulnerability & Application Security**
+- Nessus · Greenbone/OpenVAS — Vulnerability assessment
+- Burp Suite · OWASP ZAP — Web application security testing
+- Nuclei — Template-based security scanning
+- Metasploit — Authorized security validation
 
-## 05 — Areas of Exploration
+**📚 Security Knowledge**
+- CVE · CVSS · CWE
+- OWASP Top 10
+- Vulnerability lifecycle and remediation
+- Security assessment and technical reporting
 
-- Vulnerability Assessment & Management
-- Network and Infrastructure Security
-- Web Application Security
-- Linux Security and Administration
-- Risk Analysis and Technical Reporting
-- Security Research and Automation
+## How I Approach Security
 
-## 06 — The Laboratory
+`DISCOVER → INVESTIGATE → VALIDATE → ASSESS → REMEDIATE`
 
-This space documents practical experiments, technical investigations, security methodologies, Linux exercises, and lessons learned.
+A security finding is only the beginning.
 
-The objective is to understand not only how a weakness exists, but why it matters and how it can be addressed.
+Its value comes from understanding the underlying weakness, establishing its actual impact, communicating the risk clearly, and identifying the right corrective action.
 
-## 07 — The Principle
+My objective is to connect technical analysis with practical security outcomes.
 
-> A vulnerability is not just a technical flaw. It is an opportunity to understand a system more deeply and make it stronger.
+## What You'll Find Here
 
-**Observe carefully. Question assumptions. Investigate responsibly.**
+This space brings together practical work, technical documentation, and continuous learning:
+
+- Linux and cybersecurity laboratories.
+- Vulnerability assessment methodologies.
+- Network and web security investigations.
+- Bash and Python automation.
+- Technical security reports and remediation recommendations.
+
+---
+
+### A Professional Principle
+
+*Technology changes. Attack techniques evolve. Security must evolve with them.*
+
+**Understand the weakness. Measure the risk. Strengthen the system.**
+
+<p align="center">
+  <sub>CYBERSECURITY · ANALYSIS · RESPONSIBILITY</sub>
+</p>

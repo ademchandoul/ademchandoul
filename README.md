@@ -1,114 +1,77 @@
-# 🛡️ Vulnerability Analyst | Cybersecurity Consultant
+# 🛡️ Beyond the Surface
+
+### Vulnerability Analyst · Cybersecurity Consultant
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=650&lines=Understanding+the+attack+surface.;Identifying+security+weaknesses.;Assessing+risk+before+exploitation.;Building+a+more+resilient+digital+world." alt="Cybersecurity typing animation" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Vulnerability%20Assessment-00D4AA?style=flat-square" />
-  <img src="https://img.shields.io/badge/Environment-Linux-black?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Field-Cybersecurity-blue?style=flat-square" />
+  <i>"Every system tells a story. My job is to discover what it reveals about its security."</i>
 </p>
 
 ---
 
-## 🔎 About My Field
+## A Different Perspective on Security
 
-Cybersecurity is not simply about defending systems against attacks. It is about understanding how systems can fail, identifying weaknesses before they become threats, and ensuring that digital environments remain secure and reliable.
+I believe cybersecurity starts long before an attack happens.
 
-As a **Vulnerability Analyst and Cybersecurity Consultant**, the focus is on discovering security weaknesses, evaluating their potential impact, and helping organizations make informed decisions to reduce their exposure to cyber threats.
+Behind every application, network, and infrastructure lies a complex structure of technologies, configurations, and trust. Sometimes, a small overlooked weakness is all it takes to compromise an entire environment.
 
-Every system has an attack surface. Every vulnerability represents a potential entry point. Understanding these risks is the first step toward effective security.
+This is where vulnerability analysis comes in.
 
-## 🎯 Mission & Purpose
+My interest lies in understanding these weaknesses, investigating how they emerge, evaluating the risks they create, and helping organizations make better security decisions.
 
-The purpose of vulnerability analysis is to move organizations from reactive security to proactive protection.
+For me, cybersecurity is not about collecting tools or running commands. It is about developing the mindset to question, investigate, understand, and improve.
 
-- 🔍 **Identify:** Discover vulnerabilities and security misconfigurations across systems, networks, and applications.
-- 📊 **Assess:** Evaluate severity, exploitability, and potential business impact.
-- 🧠 **Analyze:** Understand attack paths, exposure, and the underlying causes of security weaknesses.
-- 🛠️ **Recommend:** Provide practical remediation strategies and security improvements.
-- 🛡️ **Strengthen:** Help organizations reduce their attack surface and improve their security posture.
+## 🔍 The Work Behind the Security
 
-**Why does this profession matter?**
+**Discover what others overlook.**
 
-A vulnerability discovered and addressed before exploitation can prevent data breaches, service disruptions, financial losses, and damage to an organization's reputation.
+Explore systems, identify weaknesses, and understand the conditions that make them vulnerable.
 
-Security is not only about preventing attacks. It is also about understanding risk and making systems harder to compromise.
+**Understand before judging.**
 
----
+A vulnerability is more than a finding. Its real importance depends on its context, exposure, exploitability, and potential impact.
 
-## 🐧 Linux & Security Environment
+**Turn technical findings into decisions.**
 
-Linux is an essential environment for cybersecurity operations. It provides the flexibility, command-line capabilities, and specialized utilities needed to investigate systems, analyze networks, and perform security assessments.
+Security analysis has little value if its results cannot be understood and acted upon. Clear reporting and practical remediation are part of the job.
 
-My security environment revolves around:
+**Build stronger environments.**
 
-<p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Terminal-black?style=flat-square&logo=linux&logoColor=white" />
-</p>
+The ultimate objective is not simply to find problems. It is to help prevent them from becoming incidents.
 
-## ⚙️ Security Toolkit
+## 🐧 My Working Environment
 
-Tools are only as effective as the analysis behind them. Different tools support different stages of security assessment.
+Linux is more than an operating system in my workflow. It is an environment for exploration, investigation, automation, and technical understanding.
 
-| Domain | Tools | Purpose |
-|---|---|---|
-| Network Discovery | Nmap | Network mapping and service enumeration |
-| Traffic Analysis | Wireshark | Network traffic inspection |
-| Web Security | Burp Suite, OWASP ZAP | Web application security testing |
-| Vulnerability Scanning | Nessus, OpenVAS | Vulnerability discovery and assessment |
-| Security Testing | Metasploit | Authorized exploitation and validation |
-| Automated Scanning | Nuclei | Detection of known security issues |
-| Linux Operations | Bash, GNU Coreutils | System administration and automation |
+`Kali Linux` · `Bash` · `Networking` · `System Administration`
 
-## 🧩 Core Areas of Interest
+## ⚙️ Instruments of Investigation
 
-- 🔐 Vulnerability Assessment & Management
-- 🌐 Network Security & Infrastructure Analysis
-- 🕸️ Web Application Security
-- 🧪 Penetration Testing Methodologies
-- 📋 Risk Assessment & Security Reporting
-- ⚠️ Threat Exposure & Attack Surface Analysis
-- 🐧 Linux Administration & Security
-- 🏢 Cybersecurity Consulting & Remediation
+- Network discovery — Nmap
+- Traffic investigation — Wireshark
+- Web security analysis — Burp Suite
+- Vulnerability assessment — Nessus / OpenVAS
+- Security validation — Metasploit
+- Automation and scripting — Bash / Python
 
----
+Tools are not the objective. Understanding what they reveal is.
 
-## 📂 What I Aim to Share Here
+## 🧠 How I Approach a Problem
 
-This GitHub profile is a technical space dedicated to cybersecurity knowledge, practical research, and structured documentation.
+`Observe → Question → Investigate → Understand → Evaluate → Improve`
 
-You can expect repositories covering:
+I value curiosity, critical thinking, technical discipline, ethical responsibility, and continuous learning.
 
-- Security assessment methodologies and workflows.
-- Linux commands, administration, and security practices.
-- Vulnerability analysis and technical documentation.
-- Network and web security investigations.
-- Security scripts and automation.
-- Practical labs and educational research.
+## 🌐 What This Space Represents
 
-Each project is intended to demonstrate not only how a security tool works, but also how its results can be interpreted and translated into meaningful security improvements.
+This is where I document my technical journey, security research, Linux experiments, assessment methodologies, and practical cybersecurity projects.
 
----
-
-## 💡 Security Philosophy
-
-> "The objective is not just to find vulnerabilities. It is to understand their impact, communicate the risk, and help eliminate the weakness."
-
-**Discover → Analyze → Assess → Remediate → Improve**
+Not just what works, but why it works, what can go wrong, and how it can be improved.
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Think-Like%20an%20Analyst-00D4AA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Act-With%20Integrity-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Secure-By%20Design-blue?style=for-the-badge" />
+  <b>Security is not the absence of weaknesses.</b><br/>
+  <i>It is the ability to discover, understand, and address them.</i>
 </p>
 
-<p align="center">
-  🛡️ Security begins with understanding what can go wrong.
-</p>
+<p align="center">🔐 Think critically. Investigate deeply. Secure responsibly.</p>

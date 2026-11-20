@@ -1,133 +1,73 @@
 # ⚡ Cybersecurity Consultant | Exploit Researcher
 
-<div align="center">
+\<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0F172A,100:0077B6&height=190&section=header&text=SECURITY%20RESEARCH&fontSize=38&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=CYBERSECURITY%20%7C%20EXPLOIT%20ANALYSIS&descSize=13&descAlignY=58" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Cybersecurity+%7C+Penetration+Testing;Vulnerability+Research+%7C+Exploit+Analysis;Linux+%7C+Networking+%7C+Python" />
 
-<br/>
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:00D9FF&height=180&section=header&text=SECURITY%20RESEARCH&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40](https://capsule-render.vercel.app/api?type=waving\&color=0:050505,50:111827,100:00D9FF\&height=180\&section=header\&text=SECURITY%20RESEARCH\&fontSize=35\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=40)"/>
 
-<img src="https://img.shields.io/badge/FOCUS-SECURITY%20RESEARCH-00BFFF?style=for-the-badge&labelColor=080D18"/>
-<img src="https://img.shields.io/badge/DOMAIN-CYBERSECURITY-00BFFF?style=for-the-badge&labelColor=080D18"/>
 
-</div>
 
----
+\<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Penetration+Testing;Vulnerability+Research+%7C+Exploit+Analysis;Linux+%7C+Networking+%7C+Python](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&size=15\&duration=2500\&pause=800\&color=00D9FF\&center=true\&vCenter=true\&width=600\&lines=Cybersecurity+%7C+Penetration+Testing;Vulnerability+Research+%7C+Exploit+Analysis;Linux+%7C+Networking+%7C+Python)"/>
 
-## ◈ 01 / PROFILE
+
+
+\</div>
+
+## ◈ PROFILE
 
 Cybersecurity enthusiast focused on security assessment, vulnerability research, penetration testing, and exploit analysis.
 
+
+
 Interested in understanding attack surfaces, identifying security weaknesses, analyzing exploitation techniques, and strengthening digital infrastructure.
 
-## ◈ 02 / TECHNICAL SKILLS
+## ◈ TECHNICAL SKILLS
 
-<table>
-<tr>
-<td width="33%" valign="top">
+**Security:** Penetration Testing · Vulnerability Assessment · Exploit Research · Web Security · Network Security
 
-**🔐 SECURITY**
 
-- Penetration Testing
-- Vulnerability Assessment
-- Exploit Research
-- Web Security
-- Network Security
 
-</td>
-<td width="33%" valign="top">
+**Systems:** Linux · Kali Linux · Bash · Networking · TCP/IP
 
-**🐧 SYSTEMS**
 
-- Linux
-- Kali Linux
-- Bash
-- Networking
-- TCP/IP
 
-</td>
-<td width="33%" valign="top">
+**Programming:** Python · C · Bash · SQL
 
-**⌨️ PROGRAMMING**
+## ◈ SECURITY TOOLKIT
 
-- Python
-- C
-- Bash
-- SQL
-- Git
+\<p align="left"> \<img src="[https://skillicons.dev/icons?i=linux,bash,python,c,git,docker](https://skillicons.dev/icons?i=linux,bash,python,c,git,docker)"/> \</p>
 
-</td>
-</tr>
-</table>
 
-## ◈ 03 / SECURITY TOOLKIT
 
-<div align="center">
+\<p align="left"> \<a href="[https://nmap.org/](https://nmap.org/)">\<img src="[https://img.shields.io/badge/Nmap-Scanning-1679A7?style=flat-square](https://img.shields.io/badge/Nmap-Scanning-1679A7?style=flat-square)"/>\</a> \<a href="[https://portswigger.net/burp](https://portswigger.net/burp)">\<img src="[https://img.shields.io/badge/Burp_Suite-Web_Security-FF6633?style=flat-square](https://img.shields.io/badge/Burp_Suite-Web_Security-FF6633?style=flat-square)"/>\</a> \<a href="[https://www.wireshark.org/](https://www.wireshark.org/)">\<img src="[https://img.shields.io/badge/Wireshark-Traffic_Analysis-1679A7?style=flat-square](https://img.shields.io/badge/Wireshark-Traffic_Analysis-1679A7?style=flat-square)"/>\</a> \<a href="[https://www.metasploit.com/](https://www.metasploit.com/)">\<img src="[https://img.shields.io/badge/Metasploit-Exploitation-2596CD?style=flat-square](https://img.shields.io/badge/Metasploit-Exploitation-2596CD?style=flat-square)"/>\</a> \<a href="[https://www.kali.org/](https://www.kali.org/)">\<img src="[https://img.shields.io/badge/Kali_Linux-Security-557C94?style=flat-square](https://img.shields.io/badge/Kali_Linux-Security-557C94?style=flat-square)"/>\</a> \</p>
 
-### Operating Systems & Development
+## ◈ CURRENT FOCUS
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python,c,git,docker&theme=dark" />
+- Vulnerability discovery and analysis
+- Penetration testing methodologies
+- Linux security and privilege escalation
+- Web application security
+- Exploit and CVE research
 
-<br/><br/>
+## ◈ CONNECT
 
-### Security & Research Tools
 
-<a href="https://nmap.org/">
-<img src="https://img.shields.io/badge/Nmap-Network%20Scanning-1679A7?style=for-the-badge&logo=linux&logoColor=white"/>
-</a>
-<a href="https://portswigger.net/burp">
-<img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-</a>
 
-<br/>
+\<div align="center">
 
-<a href="https://www.wireshark.org/">
-<img src="https://img.shields.io/badge/Wireshark-Traffic%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-</a>
-<a href="https://www.metasploit.com/">
-<img src="https://img.shields.io/badge/Metasploit-Exploitation-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
-</a>
 
-<br/>
 
-<a href="https://www.kali.org/">
-<img src="https://img.shields.io/badge/Kali%20Linux-Security%20Environment-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-</a>
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:111827,100:050505&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:00D9FF,50:111827,100:050505\&height=100\&section=footer)"/>
 
-</div>
 
-## ◈ 04 / CURRENT FOCUS
 
-- 🔎 Vulnerability discovery and analysis
-- ⚔️ Penetration testing methodologies
-- 🐧 Linux security and privilege escalation
-- 🌐 Web application security
-- 🧬 Exploit and CVE research
+\<sub>THINK LIKE AN ATTACKER. BUILD LIKE A DEFENDER.\</sub>
 
-## ◈ 05 / CONNECT
 
-<div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=THINK+LIKE+AN+ATTACKER.;BUILD+LIKE+A+DEFENDER." />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:0F172A,100:020617&height=110&section=footer" width="100%"/>
-
-<sub>CYBERSECURITY • RESEARCH • INNOVATION</sub>
-
-</div>
+\</div>
 
 ---
 
-<sub>⚖️ Security research and testing conducted in authorized environments only.</sub>
+*Security research and testing conducted in authorized environments only. just enhance it*

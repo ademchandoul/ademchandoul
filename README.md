@@ -72,10 +72,10 @@ Topics I'm interested in:
 I'm learning programming to better understand how software and operating systems work.
 
 | Language | Current focus |
-|---|---|
-| C | Programming fundamentals and memory concepts |
-| Python | Basic programming and scripting |
-| Bash | Linux commands and shell scripts |
+| -------- | -------------------------------------------- |
+| C        | Programming fundamentals and memory concepts |
+| Python   | Basic programming and scripting |
+| Bash     | Linux commands and shell scripts |
 
 ## Tools
 

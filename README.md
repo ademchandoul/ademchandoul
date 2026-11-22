@@ -23,13 +23,20 @@
 ## 👨‍💻 About Me
 
 I am someone who enjoys learning about cybersecurity—exploring how things around us work and how they can be compromised. Currently, I am studying the fundamentals of Linux and networking, while working on practical projects to further develop my skills.
+
+
+
+
+
 ---
 
 
 
 
 
-## 🖥️ Technology & Tools
+## 🖥️ My University Major :
+
+ I am pursuing a bachelor’s degree in Information and Communication Technologies, which covers the fundamentals of networks and operating systems—such as Linux—as well as programming in languages ​​like C and Python.
 
 ### 💻 Operating Systems & Development
 

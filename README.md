@@ -85,15 +85,6 @@ I enjoy exploring how computer systems work, understanding network infrastructur
 
 ---
 
-## 📂 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/ademchandoul/snake-generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ademchandoul&repo=snake-generator&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-More projects and technical experiments coming soon!
 
 ---
 
@@ -101,7 +92,7 @@ More projects and technical experiments coming soon!
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ademchandoul&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademchandoul&layout=compact&theme=tokyonight&hide_border=true" />
+ 
 </p>
 
 <p align="center">

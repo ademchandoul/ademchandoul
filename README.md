@@ -14,9 +14,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Cybersecurity+Enthusiast;Networking+%26+Linux+Learner;Exploring+the+World+of+Technology;Learning.+Building.+Improving." />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ademchandoul&label=PROFILE%20VIEWS&color=0078D7&style=for-the-badge" />
-</p>
+
 
 ---
 

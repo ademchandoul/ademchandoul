@@ -80,15 +80,5 @@ I enjoy understanding how systems work, exploring security concepts, solving tec
 
 ---
 
-<p align="center">
-  <i>"Learn. Build. Secure. Repeat."</i>
-</p>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/ademchandoul/ademchandoul/output/github-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
-</p>
 

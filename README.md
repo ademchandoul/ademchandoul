@@ -1,154 +1,215 @@
 
-<!-- ═══════════════════ HEADER ═══════════════════ -->
+<!--
+  CYBERSECURITY PROFILE
+  Theme: Dark Hacker / Matrix
+  Replace YOUR_USERNAME with your GitHub username.
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:0F172A,100:00D9FF&height=220&section=header&text=ADAM&fontSize=65&fontColor=00D9FF&animation=fadeIn&fontAlignY=55&stroke=00D9FF&strokeWidth=1" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a00,100:00ff41&height=200&section=header&text=ACCESS%20GRANTED&fontSize=42&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=CYBERSECURITY%20%7C%20LINUX%20%7C%20NETWORKS&descSize=14&descAlignY=60"/>
 
-# `> CYBERSECURITY STUDENT`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Learning+how+systems+work...;Exploring+Linux+%26+Networks;Understanding+Cybersecurity;Building+skills+one+line+at+a+time" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Adam+%F0%9F%91%8B;Cybersecurity+Enthusiast;Exploring+Linux+%26+Networks;Learning+Ethical+Hacking;Understand.+Analyze.+Secure." />
 
 <br/>
 
-**Understand the system. Discover the weakness. Build the defense.**
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00ff41&label=VISITORS)](https://github.com/YOUR_USERNAME)
 
 </div>
 
 ---
 
-## `01 // WHOAMI`
+## `root@adam:~# whoami`
 
 ```bash
 ┌──(adam㉿kali)-[~]
 └─$ whoami
 
-Cybersecurity Student
+Cybersecurity Enthusiast
 ```
 
-I'm a cybersecurity student passionate about understanding what happens behind the scenes of computer systems.
+I'm passionate about understanding how computers, operating systems and networks work behind the scenes.
 
-Currently exploring the world of **Linux, Networking, System Administration and Cybersecurity**.
+My journey revolves around Linux, networking, programming and cybersecurity.
 
-I believe that becoming good at cybersecurity starts with understanding how technology works, not just learning which tools to use.
+I enjoy experimenting in virtual environments, analyzing how systems communicate, exploring security tools and understanding how vulnerabilities work.
 
-- 🔐 Interested in ethical hacking and network security.
-- 🐧 Exploring Linux and operating system internals.
-- 🌐 Learning networking and communication protocols.
-- 💻 Developing programming skills with C and Python.
-- 🧪 Practicing in virtual labs and controlled environments.
+**My mindset:**
 
----
-
-## `02 // TECH STACK`
-
-### Operating Systems
-<p>
-<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows&theme=dark"/>
-</p>
-
-### Networking & Security
-<p>
-<img src="https://skillicons.dev/icons?i=wireshark&theme=dark"/>
-<img src="https://img.shields.io/badge/Nmap-00D9FF?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/>
-</p>
-
-### Programming
-<p>
-<img src="https://skillicons.dev/icons?i=c,python,bash&theme=dark"/>
-</p>
+- 🔍 Understand before exploiting.
+- 🐧 Learn the system before using the tools.
+- 🌐 Understand the network before analyzing traffic.
+- 🔐 Learn how attacks work to build better defenses.
+- 🧠 Never stop questioning how technology works.
 
 ---
 
-## `03 // CURRENT MISSION`
-
-| Domain | Learning objectives |
-|:---|:---|
-| 🐧 Linux | Permissions, processes, users, filesystem |
-| 🌐 Networking | TCP/IP, DNS, DHCP, VLANs, subnetting |
-| 🔐 Security | Vulnerabilities, security fundamentals |
-| 💻 C | Memory, pointers, low-level programming |
-| 🐍 Python | Automation and scripting |
-| 🧪 Pentesting | Nmap, reconnaissance, lab exercises |
-
----
-
-## `04 // MY TOOLKIT`
+## `01 // TECHNICAL INTERESTS`
 
 <div align="center">
 
-| Tool | Purpose |
-|:---:|:---|
-| 🐉 Kali Linux | Security learning environment |
-| 🦈 Wireshark | Network traffic analysis |
-| 🔎 Nmap | Network discovery and scanning |
-| 🐧 Ubuntu | Linux administration |
-| 💻 VirtualBox | Virtual laboratory |
-| ⚙️ Cisco | Networking practice |
+### 🐧 Operating Systems
+
+<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows&theme=dark"/>
+
+### 🌐 Networking
+
+<img src="https://skillicons.dev/icons?i=wireshark&theme=dark"/>
+
+### 💻 Programming
+
+<img src="https://skillicons.dev/icons?i=c,python,bash&theme=dark"/>
+
+</div>
+
+### Current Focus
+
+| Area | What I'm exploring |
+|:---|:---|
+| Linux | Permissions, processes, users and filesystems |
+| Networking | TCP/IP, DNS, DHCP, VLANs and subnetting |
+| Programming | C, Python and Bash |
+| Cybersecurity | Security fundamentals and vulnerabilities |
+| Ethical Hacking | Reconnaissance and penetration testing basics |
+
+---
+
+## `02 // ARSENAL`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-00FF41?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41"/>
 
 </div>
 
 ---
 
-## `05 // LEARNING ROADMAP`
+## `03 // PROJECTS & LABS`
+
+<text color="secondary" size="sm">A showcase of practical work and experiments. Replace the examples with your real repositories as you publish them.</text>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🐧 Linux Laboratory
+
+Exploring Linux commands, permissions, users, processes and system administration.
+
+**Focus:** Linux fundamentals
+
+</td>
+<td width="50%">
+
+### 🌐 Networking Labs
+
+Practicing IP addressing, subnetting, protocols, routing and packet analysis.
+
+**Focus:** Network fundamentals
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔎 Nmap Experiments
+
+Learning network discovery, port scanning and service identification in authorized lab environments.
+
+**Focus:** Network reconnaissance
+
+</td>
+<td width="50%">
+
+### 💻 Programming Experiments
+
+Developing small C, Python and Bash exercises to improve programming and automation skills.
+
+**Focus:** Programming fundamentals
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**More projects coming soon...**
+
+</div>
+
+---
+
+## `04 // GITHUB STATISTICS`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&ring_color=00FF41"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=FFFFFF"/>
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=FFFFFF&dates=888888"/>
+
+</div>
+
+---
+
+## `05 // CONTRIBUTION MATRIX`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## `06 // LEARNING ROADMAP`
 
 ```text
-CYBERSECURITY JOURNEY
-│
-├── [01] Computer Fundamentals
-│   ├── Operating Systems
-│   ├── Linux Architecture
-│   └── File Systems
-│
-├── [02] Networking
-│   ├── TCP/IP
-│   ├── Subnetting
-│   ├── Routing & Switching
-│   └── Network Protocols
-│
-├── [03] Programming
-│   ├── C Fundamentals
-│   ├── Python
-│   └── Bash Scripting
-│
-├── [04] Cybersecurity
-│   ├── Security Fundamentals
-│   ├── Network Security
-│   ├── Vulnerability Analysis
-│   └── Ethical Hacking
-│
-└── [05] Practical Experience
-    ├── Virtual Labs
-    ├── CTF Challenges
-    └── Personal Projects
+[ CYBERSECURITY JOURNEY ]
+
+  [x] Starting the journey
+  [x] Exploring Linux fundamentals
+  [ ] Advanced Linux administration
+  [ ] Networking and subnetting
+  [ ] Cisco routing and switching
+  [ ] C programming and memory
+  [ ] Python automation
+  [ ] Network security
+  [ ] Vulnerability analysis
+  [ ] Ethical hacking labs
+  [ ] CTF challenges
+  [ ] Building personal security projects
+
+  STATUS: LEARNING IN PROGRESS...
 ```
 
 ---
 
-## `06 // GITHUB ANALYTICS`
+## `07 // MY PHILOSOPHY`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+```text
+> Knowledge is the real exploit.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF"/>
+> Every system has a story.
+> Every packet has information.
+> Every vulnerability teaches a lesson.
+> Every mistake is an opportunity to improve.
+```
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
-
-</div>
-
----
-
-## `07 // PHILOSOPHY`
-
-<div align="center">
-
-### `"The more you understand how systems work, the better you become at securing them."`
-
-**Learn. Analyze. Experiment. Improve. Repeat.**
+### THINK LIKE AN ENGINEER.
+### LEARN LIKE A RESEARCHER.
+### SECURE LIKE A DEFENDER.
 
 </div>
 
@@ -156,8 +217,13 @@ CYBERSECURITY JOURNEY
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0F172A,100:020617&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:001a00,100:000000&height=120&section=footer"/>
 
-**`END OF TRANSMISSION // KEEP LEARNING`**
+```bash
+┌──(adam㉿kali)-[~]
+└─$ echo "Thanks for visiting my profile!"
+```
+
+**`CONNECTION TERMINATED // SEE YOU IN THE TERMINAL`**
 
 </div>

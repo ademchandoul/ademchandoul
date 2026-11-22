@@ -22,19 +22,7 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Adem Chandoul**, a technology enthusiast interested in Cybersecurity, Computer Networks, Linux, and Programming.
-
-I enjoy exploring how computer systems work, understanding network infrastructures, learning security fundamentals, and building practical projects.
-
-- 🔐 Interested in Cybersecurity and Information Security.
-- 🌐 Learning Computer Networking and Network Infrastructure.
-- 🐉 Exploring Kali Linux and Linux environments.
-- 💻 Practicing Python, C, and Bash scripting.
-- 🛠️ Using Visual Studio Code for development.
-- 🚀 Improving my technical knowledge through practical projects.
-
-> My goal is to develop strong technical foundations and become a skilled cybersecurity professional.
-
+I am someone who enjoys learning about cybersecurity—understanding how things around us work and how they can be compromised. Currently, I am in the process of learning the fundamentals of Linux and networking.
 ---
 
 ## 🖥️ Technology & Tools

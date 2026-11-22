@@ -1,107 +1,163 @@
-# Hi, I'm a Cybersecurity Student
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:00D9FF&height=180&section=header&text=CYBERSECURITY&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
+<!-- ═══════════════════ HEADER ═══════════════════ -->
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:0F172A,100:00D9FF&height=220&section=header&text=ADAM&fontSize=65&fontColor=00D9FF&animation=fadeIn&fontAlignY=55&stroke=00D9FF&strokeWidth=1" width="100%"/>
+
+# `> CYBERSECURITY STUDENT`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Learning+how+systems+work...;Exploring+Linux+%26+Networks;Understanding+Cybersecurity;Building+skills+one+line+at+a+time" />
+
+<br/>
+
+**Understand the system. Discover the weakness. Build the defense.**
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## About Me
+## `01 // WHOAMI`
 
-I'm currently learning cybersecurity and building my knowledge of how computers, operating systems and networks work.
+```bash
+┌──(adam㉿kali)-[~]
+└─$ whoami
 
-Most of my time goes into Linux, networking and exploring security tools. I use virtual machines to practice commands, test things and understand what happens behind the scenes.
+Cybersecurity Student
+```
 
-I'm still at the beginning of this journey, so I'm focusing on understanding the basics before moving on to more advanced topics.
+I'm a cybersecurity student passionate about understanding what happens behind the scenes of computer systems.
 
-## Operating Systems
+Currently exploring the world of **Linux, Networking, System Administration and Cybersecurity**.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows" />
+I believe that becoming good at cybersecurity starts with understanding how technology works, not just learning which tools to use.
+
+- 🔐 Interested in ethical hacking and network security.
+- 🐧 Exploring Linux and operating system internals.
+- 🌐 Learning networking and communication protocols.
+- 💻 Developing programming skills with C and Python.
+- 🧪 Practicing in virtual labs and controlled environments.
+
+---
+
+## `02 // TECH STACK`
+
+### Operating Systems
+<p>
+<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows&theme=dark"/>
 </p>
 
-Things I'm studying:
-
-- Linux commands and terminal usage
-- File permissions and ownership
-- Users, groups and process management
-- Basic system administration
-- Working with Linux virtual machines
-
-## Networking
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=wireshark" />
+### Networking & Security
+<p>
+<img src="https://skillicons.dev/icons?i=wireshark&theme=dark"/>
+<img src="https://img.shields.io/badge/Nmap-00D9FF?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
-Networking is one of the areas I'm currently focusing on.
-
-- TCP/IP and network fundamentals
-- IP addressing and subnetting
-- DNS and DHCP
-- VLANs and routing
-- Cisco configurations
-- Network protocols and traffic analysis
-
-## Cybersecurity
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Penetration_Testing-00D9FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Network_Security-00D9FF?style=flat-square" />
+### Programming
+<p>
+<img src="https://skillicons.dev/icons?i=c,python,bash&theme=dark"/>
 </p>
 
-I'm starting to explore how security testing works and how vulnerabilities can affect computer systems.
+---
 
-Topics I'm interested in:
+## `03 // CURRENT MISSION`
 
-- Penetration testing fundamentals
-- Common security vulnerabilities
-- Linux security
-- Basic network scanning
-- Understanding how attacks work and how to prevent them
+| Domain | Learning objectives |
+|:---|:---|
+| 🐧 Linux | Permissions, processes, users, filesystem |
+| 🌐 Networking | TCP/IP, DNS, DHCP, VLANs, subnetting |
+| 🔐 Security | Vulnerabilities, security fundamentals |
+| 💻 C | Memory, pointers, low-level programming |
+| 🐍 Python | Automation and scripting |
+| 🧪 Pentesting | Nmap, reconnaissance, lab exercises |
 
-## Programming
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,bash" />
-</p>
+## `04 // MY TOOLKIT`
 
-I'm learning programming to better understand how software and operating systems work.
+<div align="center">
 
-| Language | Current focus |
-| -------- | -------------------------------------------- |
-| C        | Programming fundamentals and memory concepts |
-| Python   | Basic programming and scripting |
-| Bash     | Linux commands and shell scripts |
+| Tool | Purpose |
+|:---:|:---|
+| 🐉 Kali Linux | Security learning environment |
+| 🦈 Wireshark | Network traffic analysis |
+| 🔎 Nmap | Network discovery and scanning |
+| 🐧 Ubuntu | Linux administration |
+| 💻 VirtualBox | Virtual laboratory |
+| ⚙️ Cisco | Networking practice |
 
-## Tools
+</div>
 
-Some tools I'm getting familiar with:
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-1679A7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
+## `05 // LEARNING ROADMAP`
 
-## Currently Working On
+```text
+CYBERSECURITY JOURNEY
+│
+├── [01] Computer Fundamentals
+│   ├── Operating Systems
+│   ├── Linux Architecture
+│   └── File Systems
+│
+├── [02] Networking
+│   ├── TCP/IP
+│   ├── Subnetting
+│   ├── Routing & Switching
+│   └── Network Protocols
+│
+├── [03] Programming
+│   ├── C Fundamentals
+│   ├── Python
+│   └── Bash Scripting
+│
+├── [04] Cybersecurity
+│   ├── Security Fundamentals
+│   ├── Network Security
+│   ├── Vulnerability Analysis
+│   └── Ethical Hacking
+│
+└── [05] Practical Experience
+    ├── Virtual Labs
+    ├── CTF Challenges
+    └── Personal Projects
+```
 
-- Improving my Linux command-line skills.
-- Understanding networking and Cisco configurations.
-- Practicing C programming.
-- Getting familiar with Kali Linux.
-- Learning the fundamentals of penetration testing.
+---
+
+## `06 // GITHUB ANALYTICS`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF"/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+
+</div>
+
+---
+
+## `07 // PHILOSOPHY`
+
+<div align="center">
+
+### `"The more you understand how systems work, the better you become at securing them."`
+
+**Learn. Analyze. Experiment. Improve. Repeat.**
+
+</div>
 
 ---
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0F172A,100:020617&height=120&section=footer"/>
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:111827,100:050505&height=100&section=footer" width="100%" />
+**`END OF TRANSMISSION // KEEP LEARNING`**
 
 </div>

@@ -5,9 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:003B73,100:00C9FF&height=220&section=header&text=ADEM%20CHANDOUL&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MALWARE%20ANALYSIS%20%7C%20EXPLOIT%20RESEARCH%20%7C%20NETWORK%20SECURITY&descAlignY=58&descSize=14" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=750&lines=Malware+Analysis;Exploit+Research;Network+Security;Cybersecurity+Research+%26+Learning" />
-</p>
+
 
 
 <!-- ================= TYPING ANIMATION ================= -->

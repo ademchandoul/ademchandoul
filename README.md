@@ -8,6 +8,21 @@
 
 ---
 
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" width="65" alt="Kali Linux"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" width="65" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="65" alt="Visual Studio Code"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="65" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" width="65" alt="C"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+</p>
+
 ## 🧠 About Me
 
 Hello! I'm **Adem Chandoul**, interested in Cybersecurity, Computer Networks, and Information Technology.

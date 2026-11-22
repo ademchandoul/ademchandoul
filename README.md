@@ -1,22 +1,15 @@
+
 <!-- ================= HEADER ================= -->
 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:003B73,100:00C9FF&height=220&section=header&text=ADEM%20CHANDOUL&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MALWARE%20ANALYSIS%20%7C%20EXPLOIT%20RESEARCH%20%7C%20NETWORK%20SECURITY&descAlignY=58&descSize=14" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:003B73,100:00C9FF&height=220&section=header&text=ADEM%20CHANDOUL&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CYBERSECURITY%20%7C%20NETWORKING%20%7C%20LINUX&descAlignY=58&descSize=15" width="100%" />
 </p>
-
-
-
 
 <!-- ================= TYPING ANIMATION ================= -->
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Cybersecurity+Consultant;Networking+%26+Linux+Learner;Exploring+the+World+of+Technology;Learning.+Building.+Improving." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Cybersecurity+Enthusiast;Networking+%26+Linux+Learner;Exploring+Computer+Systems;Learning.+Building.+Improving." />
 </p>
-
-
-
 
 ---
 
@@ -24,49 +17,45 @@
 
 I am someone who enjoys learning about cybersecurity—exploring how things around us work and how they can be compromised. Currently, I am studying the fundamentals of Linux and networking, while working on practical projects to further develop my skills.
 
+---
 
+## 🎓 My University Major
 
-
+I am pursuing a bachelor’s degree in Information and Communication Technologies, which covers the fundamentals of networks and operating systems—such as Linux—as well as programming in languages ​​like C and Python.
 
 ---
 
+## 💻 Technologies & Tools
 
-
-
-
-## 🖥️ My University Major :
-
- I am pursuing a bachelor’s degree in Information and Communication Technologies, which covers the fundamentals of networks and operating systems—such as Linux—as well as programming in languages ​​like C and Python.
-
-### 💻 Operating Systems & Development
+### Operating Systems & Development
 
 <p align="left">
   <a href="https://www.kali.org/">
-    <img src="https://skillicons.dev/icons?i=kali" width="55" alt="Kali Linux"/>
+    <img src="https://skillicons.dev/icons?i=kali" width="50" alt="Kali Linux"/>
   </a>
   <a href="https://www.linux.org/">
-    <img src="https://skillicons.dev/icons?i=linux" width="55" alt="Linux"/>
+    <img src="https://skillicons.dev/icons?i=linux" width="50" alt="Linux"/>
   </a>
   <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" width="55" alt="VS Code"/>
+    <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code"/>
   </a>
   <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=python" width="55" alt="Python"/>
+    <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/>
   </a>
   <a href="https://www.gnu.org/software/bash/">
-    <img src="https://skillicons.dev/icons?i=bash" width="55" alt="Bash"/>
+    <img src="https://skillicons.dev/icons?i=bash" width="50" alt="Bash"/>
   </a>
   <a href="https://en.cppreference.com/w/c">
-    <img src="https://skillicons.dev/icons?i=c" width="55" alt="C"/>
+    <img src="https://skillicons.dev/icons?i=c" width="50" alt="C"/>
   </a>
 </p>
 
 ### 🌐 Networking & Infrastructure
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
   <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/TCP%2FIP-003B73?style=for-the-badge&logo=cloudflare&logoColor=white" alt="TCP/IP"/>
 </p>
 
 ---
@@ -80,14 +69,32 @@ I am someone who enjoys learning about cybersecurity—exploring how things arou
   <img src="https://img.shields.io/badge/Ethical_Hacking-202020?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 </p>
 
-- Network security fundamentals
-- Linux system administration
-- Cybersecurity fundamentals
-- Security tools and practical labs
-- Information security best practices
+- Network Security Fundamentals
+- Linux System Administration
+- Cybersecurity Fundamentals
+- Security Tools & Practical Labs
+- Information Security Best Practices
 
 ---
 
+## 📚 Currently Learning
+
+- Strengthening my understanding of Computer Networks.
+- Exploring Linux commands and system administration.
+- Practicing C and Python programming.
+- Understanding operating systems and system security.
+- Exploring cybersecurity concepts and techniques.
+
+---
+
+## 🎯 Future Goals
+
+- Develop strong foundations in Cybersecurity.
+- Improve my networking and Linux skills.
+- Build practical projects and security tools.
+- Gain hands-on experience through security labs.
+- Participate in CTF challenges.
+- Document my learning journey and technical progress.
 
 ---
 
@@ -95,7 +102,6 @@ I am someone who enjoys learning about cybersecurity—exploring how things arou
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ademchandoul&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
- 
 </p>
 
 <p align="center">
@@ -112,22 +118,11 @@ I am someone who enjoys learning about cybersecurity—exploring how things arou
 
 ---
 
-## 🎯 Current Goals
-
-- Strengthen my knowledge of Computer Networks.
-- Improve Linux and command-line skills.
-- Practice Python and C programming.
-- Learn more about Cybersecurity.
-- Build useful technical projects.
-- Document my learning journey on GitHub.
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/ademchandoul">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 

@@ -1,99 +1,152 @@
-# 👨‍💻 Adem Chandoul
-
-### Cybersecurity | Networking | Technology Enthusiast
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Exploring+Cybersecurity;Learning+Network+Security;Building+Technical+Projects;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:003B73,100:00C9FF&height=220&section=header&text=ADEM%20CHANDOUL&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CYBERSECURITY%20%7C%20NETWORKING%20%7C%20TECHNOLOGY&descAlignY=58&descSize=16" width="100%" />
+</p>
+
+<!-- ================= TYPING ANIMATION ================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Cybersecurity+Enthusiast;Networking+%26+Linux+Learner;Exploring+the+World+of+Technology;Learning.+Building.+Improving." />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ademchandoul&label=PROFILE%20VIEWS&color=0078D7&style=for-the-badge" />
 </p>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" width="65" alt="Kali Linux"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" width="65" alt="Linux"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="65" alt="Visual Studio Code"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="65" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" width="65" alt="C"/>
+Hello! I'm **Adem Chandoul**, a technology enthusiast interested in Cybersecurity, Computer Networks, Linux, and Programming.
+
+I enjoy exploring how computer systems work, understanding network infrastructures, learning security fundamentals, and building practical projects.
+
+- 🔐 Interested in Cybersecurity and Information Security.
+- 🌐 Learning Computer Networking and Network Infrastructure.
+- 🐉 Exploring Kali Linux and Linux environments.
+- 💻 Practicing Python, C, and Bash scripting.
+- 🛠️ Using Visual Studio Code for development.
+- 🚀 Improving my technical knowledge through practical projects.
+
+> My goal is to develop strong technical foundations and become a skilled cybersecurity professional.
+
+---
+
+## 🖥️ Technology & Tools
+
+### 💻 Operating Systems & Development
+
+<p align="left">
+  <a href="https://www.kali.org/">
+    <img src="https://skillicons.dev/icons?i=kali" width="55" alt="Kali Linux"/>
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://skillicons.dev/icons?i=linux" width="55" alt="Linux"/>
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" width="55" alt="VS Code"/>
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=python" width="55" alt="Python"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://skillicons.dev/icons?i=bash" width="55" alt="Bash"/>
+  </a>
+  <a href="https://en.cppreference.com/w/c">
+    <img src="https://skillicons.dev/icons?i=c" width="55" alt="C"/>
+  </a>
 </p>
 
-<p align="center">
+### 🌐 Networking & Infrastructure
+
+<p align="left">
   <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
 </p>
 
-## 🧠 About Me
+---
 
-Hello! I'm **Adem Chandoul**, interested in Cybersecurity, Computer Networks, and Information Technology.
+## 🔐 Cybersecurity Interests
 
-I enjoy understanding how systems work, exploring security concepts, solving technical problems, and building practical projects.
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-0A192F?style=for-the-badge&logo=securityscorecard&logoColor=00C9FF"/>
+  <img src="https://img.shields.io/badge/Network_Security-003B73?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux_Security-111111?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ethical_Hacking-202020?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+</p>
 
-- 🔐 Interested in Cybersecurity and Information Security
-- 🌐 Exploring Computer Networks and Network Security
-- 💻 Developing my technical and programming skills
-- 🧪 Learning through practical labs and personal projects
-- 🎯 Goal: Build strong technical knowledge and real-world experience
+- Network security fundamentals
+- Linux system administration
+- Cybersecurity fundamentals
+- Security tools and practical labs
+- Information security best practices
 
 ---
 
-## 🛠️ Areas of Interest
+## 📂 Featured Projects
 
-| Area | Focus |
-|---|---|
-| 🔐 Cybersecurity | Security fundamentals |
-| 🌐 Networking | Network protocols and infrastructure |
-| 🐧 Linux | Operating systems and command line |
-| 💻 Programming | Scripting and automation |
-| 🛡️ Information Security | Security awareness and best practices |
+<p align="center">
+  <a href="https://github.com/ademchandoul/snake-generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ademchandoul&repo=snake-generator&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
----
-
-## 🚀 Featured Projects
-
-> A selection of my projects and practical experiments.
-
-- 🐍 **GitHub Snake Generator** — Automated GitHub contribution graph animation.
-- 🔧 **More projects coming soon** — Practical labs, scripts, and technical experiments.
-
----
-
-## 📚 Currently Learning
-
-- Computer Networks
-- Cybersecurity Fundamentals
-- Linux and System Administration
-- Programming and Automation
-- Security Best Practices
+More projects and technical experiments coming soon!
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ademchandoul&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademchandoul&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ademchandoul&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademchandoul&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ademchandoul/ademchandoul/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
+  <img src="https://streak-stats.demolab.com?user=ademchandoul&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🐍 My GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ademchandoul/ademchandoul/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- Strengthen my knowledge of Computer Networks.
+- Improve Linux and command-line skills.
+- Practice Python and C programming.
+- Learn more about Cybersecurity.
+- Build useful technical projects.
+- Document my learning journey on GitHub.
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/ademchandoul">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
----
+<p align="center">
+  <b>Thanks for visiting my profile!</b>
+</p>
 
+<p align="center">
+  <i>"Knowledge is power. Practice turns knowledge into skill."</i>
+</p>
 
+<!-- ================= FOOTER ================= -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:003B73,100:020024&height=110&section=footer" width="100%"/>
+</p>

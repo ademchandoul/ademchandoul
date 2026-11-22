@@ -22,8 +22,12 @@
 
 ## 👨‍💻 About Me
 
-I am someone who enjoys learning about cybersecurity—understanding how things around us work and how they can be compromised. Currently, I am in the process of learning the fundamentals of Linux and networking.
+I am someone who enjoys learning about cybersecurity—exploring how things around us work and how they can be compromised. Currently, I am studying the fundamentals of Linux and networking, while working on practical projects to further develop my skills.
 ---
+
+
+
+
 
 ## 🖥️ Technology & Tools
 

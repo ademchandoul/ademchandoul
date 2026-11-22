@@ -1,58 +1,88 @@
-# 🛡️ [Your Name] | Cybersecurity Analyst & Security Researcher
+# 👨‍💻 Adem Chandoul
 
-![Status](https://shields.io)
-![Focus](https://shields.io)
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![HackTheBox](https://shields.io)](https://hackthebox.com)
-[![TryHackMe](https://shields.io)](https://tryhackme.com)
+### Cybersecurity | Networking | Technology Enthusiast
 
-> *"Securing systems by understanding how they break."* — Focused on threat detection, vulnerability assessment, and automating security workflows.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Exploring+Cybersecurity;Learning+Network+Security;Building+Technical+Projects;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🔐 Core Competencies & Arsenal
+## 🧠 About Me
 
-| Domain | Tools & Technologies |
-| :--- | :--- |
-| **Offensive Security** | Nmap, Burp Suite, Metasploit, SQLmap, Wireshark, Gobuster |
-| **Defensive & SOC** | Splunk, Wazuh, ELK Stack, Snort, Suricata, Sysmon |
-| **Malware & DFIR** | Ghidra, Volatility, Autopsy, YARA, CyberChef |
-| **Cloud & DevSecOps** | AWS Security, Docker, Trivy, Semgrep, GitHub Actions |
-| **Scripting & Code** | Python, Bash, PowerShell, Go, SQL |
+Hello! I'm **Adem Chandoul**, interested in Cybersecurity, Computer Networks, and Information Technology.
 
----
+I enjoy understanding how systems work, exploring security concepts, solving technical problems, and building practical projects.
 
-### 🚀 Featured Security Projects
-
-* **[Project Name 1](https://github.com)** — *Automated Vulnerability Scanner*
-  * Built a multithreaded Python CLI tool to enumerate subdomains, check open ports, and flag outdated SSL/TLS configurations.
-* **[Project Name 2](https://github.com)** — *Home Lab SIEM & Detection Rules*
-  * Deployed a virtualized Active Directory lab monitored via Wazuh and Sysmon; wrote custom detection rules for Kerberoasting and lateral movement.
-* **[Project Name 3](https://github.com)** — *CTF & Malware Writeups*
-  * Collection of detailed reverse-engineering reports, binary exploitation walkthroughs, and YARA signatures.
+- 🔐 Interested in Cybersecurity and Information Security
+- 🌐 Exploring Computer Networks and Network Security
+- 💻 Developing my technical and programming skills
+- 🧪 Learning through practical labs and personal projects
+- 🎯 Goal: Build strong technical knowledge and real-world experience
 
 ---
 
-### 🏆 Certifications & Labs
+## 🛠️ Areas of Interest
 
-* **Certifications:** CompTIA Security+ (SY0-701) | eJPT | *[Add OSCP / BTL1 / AWS Security here]*
-* **CTF & Platforms:** Top X% on [TryHackMe](https://tryhackme.com) | Pro Hacker on [Hack The Box](https://hackthebox.com)
-* **CVEs / Bug Bounties:** *[Optional: List acknowledged CVEs or HackerOne/Bugcrowd milestones]*
-
----
-
-### 📊 GitHub Activity & Stats
-
-![Your GitHub Stats](https://vercel.app)
-![Top Languages](https://vercel.app)
+| Area | Focus |
+|---|---|
+| 🔐 Cybersecurity | Security fundamentals |
+| 🌐 Networking | Network protocols and infrastructure |
+| 🐧 Linux | Operating systems and command line |
+| 💻 Programming | Scripting and automation |
+| 🛡️ Information Security | Security awareness and best practices |
 
 ---
 
-### 📫 Contact & PGP
+## 🚀 Featured Projects
 
-* **Email:** your.email@domain.com
-* **PGP Fingerprint:** `XXXX XXXX XXXX XXXX XXXX  XXXX XXXX XXXX XXXX XXXX` *(Link to your public key)*
-* **Blog / Writeups:** [your-blog.com](https://your-blog.com)
+> A selection of my projects and practical experiments.
+
+- 🐍 **GitHub Snake Generator** — Automated GitHub contribution graph animation.
+- 🔧 **More projects coming soon** — Practical labs, scripts, and technical experiments.
+
+---
+
+## 📚 Currently Learning
+
+- Computer Networks
+- Cybersecurity Fundamentals
+- Linux and System Administration
+- Programming and Automation
+- Security Best Practices
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ademchandoul&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademchandoul&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ademchandoul/ademchandoul/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/ademchandoul">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Learn. Build. Secure. Repeat."</i>
+</p>
 
 <p align="center">
   <img

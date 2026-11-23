@@ -27,15 +27,15 @@ My goal is to build a strong technical foundation and gain practical experience 
 
 ---
 
-## 💻 Technical Skills
+##  Skills
 
-### 🖥️ Operating Systems
+###   Operating Systems
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,kali,windows" alt="Operating Systems"/>
 </p>
 
-### 🌐 Networking & Security Tools
+###   Networking & Security Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00C9FF" alt="Wireshark"/>
@@ -43,8 +43,8 @@ My goal is to build a strong technical foundation and gain practical experience 
   <img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=00C9FF" alt="Networking"/>
 </p>
 
-### 💻 Programming & Scripting
-
+###   Programming & Scripting
+ 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,bash,php,js" alt="Programming Languages"/>
 </p>

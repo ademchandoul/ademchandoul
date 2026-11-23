@@ -13,13 +13,13 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am someone who enjoys learning about cybersecurity—exploring how things around us work and how they can be compromised. Currently, I am studying the fundamentals of Linux and networking, while working on practical projects to further develop my skills.
 
 ---
 
-##  My Specialization 
+## My Specialization
 
 I am currently focusing on network penetration testing and cryptography, while exploring malware analysis, reverse engineering, vulnerability exploitation, and privilege escalation.
 
@@ -27,15 +27,15 @@ My goal is to build a strong technical foundation and gain practical experience 
 
 ---
 
-##  Skills
+## Skills
 
-###   Operating Systems
+### Operating Systems
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,kali,windows" alt="Operating Systems"/>
 </p>
 
-###   Networking & Security Tools
+### Networking & Security Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00C9FF" alt="Wireshark"/>
@@ -43,15 +43,15 @@ My goal is to build a strong technical foundation and gain practical experience 
   <img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=00C9FF" alt="Networking"/>
 </p>
 
-###   Programming & Scripting
- 
+### Programming & Scripting
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,bash,php,js" alt="Programming Languages"/>
 </p>
 
 ---
 
-## 🔐 Cybersecurity Interests
+## Cybersecurity Interests
 
 <p align="center">
   <img src="https://img.shields.io/badge/Network_Penetration_Testing-000000?style=for-the-badge&logo=kalilinux&logoColor=00C9FF" alt="Network Penetration Testing"/>
@@ -70,7 +70,7 @@ My goal is to build a strong technical foundation and gain practical experience 
 
 ---
 
-## 🎯 Hands-on Practice Platforms
+## Hands-on Practice Platforms
 
 <p align="center">
   <a href="https://tryhackme.com/">
@@ -85,7 +85,7 @@ I use hands-on cybersecurity platforms to develop my practical skills, explore s
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Strengthening my understanding of Computer Networks.
 - Exploring Linux commands and system administration.
@@ -96,7 +96,7 @@ I use hands-on cybersecurity platforms to develop my practical skills, explore s
 
 ---
 
-## 🚀 Future Goals
+## Future Goals
 
 - Develop strong foundations in Red Team operations.
 - Improve Linux, Windows, and networking skills.
@@ -108,7 +108,7 @@ I use hands-on cybersecurity platforms to develop my practical skills, explore s
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ademchandoul&show_icons=true&theme=tokyonight&bg_color=000000&title_color=00C9FF&text_color=ffffff&icon_color=00C9FF&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics"/>
@@ -120,7 +120,7 @@ I use hands-on cybersecurity platforms to develop my practical skills, explore s
 
 ---
 
-## 🐍 My GitHub Contribution Snake
+## My GitHub Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ademchandoul/ademchandoul/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
@@ -128,7 +128,7 @@ I use hands-on cybersecurity platforms to develop my practical skills, explore s
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://github.com/ademchandoul">

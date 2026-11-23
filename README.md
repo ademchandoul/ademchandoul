@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-I'm a cybersecurity learner from Tunisia who enjoys understanding how systems work, and how they can be broken. I'm building a solid foundation in **Linux** and **networking**, and I back it up with hands-on labs and small projects.
+I'm a person who enjoys understanding how systems work, and how they can be broken. I'm building a solid foundation in **Linux** and **networking**, and I back it up with hands-on labs and small projects.
 
 **Focus:** network penetration testing and cryptography
 **Exploring:** malware analysis, reverse engineering, vulnerability exploitation, privilege escalation

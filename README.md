@@ -2,7 +2,7 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:003B73,100:00C9FF&height=220&section=header&text=ADEM%20CHANDOUL&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CYBERSECURITY%20%7C%20NETWORKING%20%7C%20LINUX&descAlignY=58&descSize=15" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B73,100:00C9FF&height=220&section=header&text=ADEM%20CHANDOUL&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CYBERSECURITY%20%7C%20NETWORKING%20%7C%20LINUX&descAlignY=58&descSize=15" width="100%" />
 </p>
 
 <!-- ================= TYPING ANIMATION ================= -->
@@ -53,9 +53,9 @@ I am pursuing a bachelor’s degree in Information and Communication Technologie
 ### 🌐 Networking & Infrastructure
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
-  <img src="https://img.shields.io/badge/TCP%2FIP-003B73?style=for-the-badge&logo=cloudflare&logoColor=white" alt="TCP/IP"/>
+  <img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=00C9FF" alt="Networking"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00C9FF" alt="Linux"/>
+  <img src="https://img.shields.io/badge/TCP%2FIP-000000?style=for-the-badge&logo=cloudflare&logoColor=00C9FF" alt="TCP/IP"/>
 </p>
 
 ---
@@ -63,10 +63,10 @@ I am pursuing a bachelor’s degree in Information and Communication Technologie
 ## 🔐 Cybersecurity Interests
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-0A192F?style=for-the-badge&logo=securityscorecard&logoColor=00C9FF"/>
-  <img src="https://img.shields.io/badge/Network_Security-003B73?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux_Security-111111?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ethical_Hacking-202020?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=securityscorecard&logoColor=00C9FF"/>
+  <img src="https://img.shields.io/badge/Network_Security-000000?style=for-the-badge&logo=cisco&logoColor=00C9FF"/>
+  <img src="https://img.shields.io/badge/Linux_Security-000000?style=for-the-badge&logo=linux&logoColor=00C9FF"/>
+  <img src="https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=kalilinux&logoColor=00C9FF"/>
 </p>
 
 - Network Security Fundamentals
@@ -101,11 +101,11 @@ I am pursuing a bachelor’s degree in Information and Communication Technologie
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ademchandoul&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ademchandoul&show_icons=true&theme=tokyonight&bg_color=000000&title_color=00C9FF&text_color=ffffff&icon_color=00C9FF&hide_border=true&rank_icon=github&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ademchandoul&theme=tokyonight&hide_border=true" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=ademchandoul&theme=tokyonight&background=000000&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF&hide_border=true" width="70%" />
 </p>
 
 ---
@@ -122,7 +122,7 @@ I am pursuing a bachelor’s degree in Information and Communication Technologie
 
 <p align="center">
   <a href="https://github.com/ademchandoul">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00C9FF" alt="GitHub"/>
   </a>
 </p>
 
@@ -137,5 +137,5 @@ I am pursuing a bachelor’s degree in Information and Communication Technologie
 <!-- ================= FOOTER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:003B73,100:020024&height=110&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:003B73,100:000000&height=110&section=footer" width="100%"/>
 </p>

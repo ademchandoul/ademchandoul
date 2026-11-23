@@ -19,7 +19,7 @@ I am someone who enjoys learning about cybersecurity—exploring how things arou
 
 ---
 
-## 🎓 My Specialization & Interests
+##  My Specialization 
 
 I am currently focusing on network penetration testing and cryptography, while exploring malware analysis, reverse engineering, vulnerability exploitation, and privilege escalation.
 

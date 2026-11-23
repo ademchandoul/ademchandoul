@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-I'm a person who enjoys understanding how systems work, and how they can be broken. I'm building a solid foundation in **Linux** and **networking**, and I back it up with hands-on labs and small projects.
+I am someone who enjoys learning about cybersecurity—exploring how things around us work and how they can be compromised. Currently, I am studying the fundamentals of Linux and networking, while working on practical projects to further develop my skills.
 
 **Focus:** network penetration testing and cryptography
 **Exploring:** malware analysis, reverse engineering, vulnerability exploitation, privilege escalation

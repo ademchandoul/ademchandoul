@@ -2,13 +2,13 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B73,100:00C9FF&height=220&section=header&text=ADEM%20CHANDOUL&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CYBERSECURITY%20%7C%20NETWORKING%20%7C%20LINUX&descAlignY=58&descSize=15" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B73,100:00C9FF&height=220&section=header&text=ADEM%20CHANDOUL&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CYBERSECURITY%20%7C%20NETWORKING%20%7C%20LINUX&descAlignY=58&descSize=15" width="100%" alt="ADEM CHANDOUL Header"/>
 </p>
 
 <!-- ================= TYPING ANIMATION ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Cybersecurity+Enthusiast;Network+Penetration+Testing+Learner;Malware+Analysis+%26+Reverse+Engineering;Learning.+Building.+Improving." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Cybersecurity+Enthusiast;Network+Penetration+Testing+Learner;Malware+Analysis+%26+Reverse+Engineering;Learning.+Building.+Improving." alt="Typing Animation"/>
 </p>
 
 ---
@@ -31,21 +31,21 @@ My goal is to build a strong technical foundation and gain practical experience 
 
 ### 🖥️ Operating Systems
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=linux,kali,windows" alt="Operating Systems"/>
 </p>
 
 ### 🌐 Networking & Security Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00C9FF"/>
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=linux&logoColor=00C9FF"/>
-  <img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=00C9FF"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00C9FF" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=linux&logoColor=00C9FF" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=00C9FF" alt="Networking"/>
 </p>
 
 ### 💻 Programming & Scripting
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,bash,php,js" alt="Programming Languages"/>
 </p>
 
@@ -54,11 +54,11 @@ My goal is to build a strong technical foundation and gain practical experience 
 ## 🔐 Cybersecurity Interests
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Network_Penetration_Testing-000000?style=for-the-badge&logo=kalilinux&logoColor=00C9FF"/>
-  <img src="https://img.shields.io/badge/Malware_Analysis-000000?style=for-the-badge&logo=virustotal&logoColor=00C9FF"/>
-  <img src="https://img.shields.io/badge/Reverse_Engineering-000000?style=for-the-badge&logo=gnuemacs&logoColor=00C9FF"/>
-  <img src="https://img.shields.io/badge/Cryptography-000000?style=for-the-badge&logo=letsencrypt&logoColor=00C9FF"/>
-  <img src="https://img.shields.io/badge/Privilege_Escalation-000000?style=for-the-badge&logo=linux&logoColor=00C9FF"/>
+  <img src="https://img.shields.io/badge/Network_Penetration_Testing-000000?style=for-the-badge&logo=kalilinux&logoColor=00C9FF" alt="Network Penetration Testing"/>
+  <img src="https://img.shields.io/badge/Malware_Analysis-000000?style=for-the-badge&logo=virustotal&logoColor=00C9FF" alt="Malware Analysis"/>
+  <img src="https://img.shields.io/badge/Reverse_Engineering-000000?style=for-the-badge&logo=gnuemacs&logoColor=00C9FF" alt="Reverse Engineering"/>
+  <img src="https://img.shields.io/badge/Cryptography-000000?style=for-the-badge&logo=letsencrypt&logoColor=00C9FF" alt="Cryptography"/>
+  <img src="https://img.shields.io/badge/Privilege_Escalation-000000?style=for-the-badge&logo=linux&logoColor=00C9FF" alt="Privilege Escalation"/>
 </p>
 
 - Network Security
@@ -111,11 +111,11 @@ I use hands-on cybersecurity platforms to develop my practical skills, explore s
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ademchandoul&show_icons=true&theme=tokyonight&bg_color=000000&title_color=00C9FF&text_color=ffffff&icon_color=00C9FF&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ademchandoul&show_icons=true&theme=tokyonight&bg_color=000000&title_color=00C9FF&text_color=ffffff&icon_color=00C9FF&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ademchandoul&theme=tokyonight&background=000000&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF&hide_border=true" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=ademchandoul&theme=tokyonight&background=000000&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF&hide_border=true" width="70%" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -147,5 +147,5 @@ I use hands-on cybersecurity platforms to develop my practical skills, explore s
 <!-- ================= FOOTER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:003B73,100:000000&height=110&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:003B73,100:000000&height=110&section=footer" width="100%" alt="Footer"/>
 </p>

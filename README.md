@@ -120,7 +120,7 @@ I use hands-on cybersecurity platforms to develop my practical skills, explore s
 
 ---
 
-## My GitHub Contribution Snake
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ademchandoul/ademchandoul/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
@@ -140,9 +140,7 @@ I use hands-on cybersecurity platforms to develop my practical skills, explore s
   <b>Thanks for visiting my profile!</b>
 </p>
 
-<p align="center">
-  <i>"Knowledge is power. Practice turns knowledge into skill."</i>
-</p>
+
 
 <!-- ================= FOOTER ================= -->
 

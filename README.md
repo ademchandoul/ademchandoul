@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-I'm a cybersecurity learner from Tunisia who enjoys understanding how systems work, and how they can be broken. I'm building a solid foundation in **Linux** and **networking**, and I back it up with hands-on labs and small projects.
+I'm a person  who enjoys understanding how systems work, and how they can be broken. I'm building a solid foundation in **Linux** and **networking**, and I back it up with hands-on labs and small projects.
 
 **Focus:** network penetration testing and cryptography
 **Exploring:** malware analysis, reverse engineering, vulnerability exploitation, privilege escalation
@@ -80,10 +80,7 @@ _Coming soon: lab write-ups, scripts and CTF notes._
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ademchandoul&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00C9FF&text_color=ffffff&icon_color=00C9FF&hide_border=true&include_all_commits=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademchandoul&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00C9FF&text_color=ffffff&hide_border=true" alt="Top languages"/>
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ademchandoul&theme=tokyonight&background=0d1117&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF&hide_border=true" width="70%" alt="GitHub streak"/>

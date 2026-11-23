@@ -46,7 +46,7 @@ My goal is to build a strong technical foundation and gain practical experience 
 ### 💻 Programming & Scripting
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,bash,java,js" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=c,python,bash,php,js" alt="Programming Languages"/>
 </p>
 
 ---

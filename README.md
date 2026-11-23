@@ -8,7 +8,7 @@
 <!-- ================= TYPING ANIMATION ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Cybersecurity+Enthusiast;Networking+%26+Linux+Learner;Exploring+Computer+Systems;Learning.+Building.+Improving." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Cybersecurity+Enthusiast;Network+Penetration+Testing+Learner;Malware+Analysis+%26+Reverse+Engineering;Learning.+Building.+Improving." />
 </p>
 
 ---
@@ -19,43 +19,34 @@ I am someone who enjoys learning about cybersecurity—exploring how things arou
 
 ---
 
-## 🎓 My University Major
+## 🎓 My Specialization & Interests
 
-I am pursuing a bachelor’s degree in Information and Communication Technologies, which covers the fundamentals of networks and operating systems—such as Linux—as well as programming in languages ​​like C and Python.
+I am currently focusing on network penetration testing and cryptography, while exploring malware analysis, reverse engineering, vulnerability exploitation, and privilege escalation.
+
+My goal is to build a strong technical foundation and gain practical experience in cybersecurity through hands-on labs and projects.
 
 ---
 
-## 💻 Technologies & Tools
+## 💻 Technical Skills
 
-### Operating Systems & Development
+### 🖥️ Operating Systems
 
 <p align="left">
-  <a href="https://www.kali.org/">
-    <img src="https://skillicons.dev/icons?i=kali" width="50" alt="Kali Linux"/>
-  </a>
-  <a href="https://www.linux.org/">
-    <img src="https://skillicons.dev/icons?i=linux" width="50" alt="Linux"/>
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code"/>
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/">
-    <img src="https://skillicons.dev/icons?i=bash" width="50" alt="Bash"/>
-  </a>
-  <a href="https://en.cppreference.com/w/c">
-    <img src="https://skillicons.dev/icons?i=c" width="50" alt="C"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=linux,kali,windows" alt="Operating Systems"/>
 </p>
 
-### 🌐 Networking & Infrastructure
+### 🌐 Networking & Security Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=00C9FF" alt="Networking"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00C9FF" alt="Linux"/>
-  <img src="https://img.shields.io/badge/TCP%2FIP-000000?style=for-the-badge&logo=cloudflare&logoColor=00C9FF" alt="TCP/IP"/>
+  <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00C9FF"/>
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=linux&logoColor=00C9FF"/>
+  <img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=00C9FF"/>
+</p>
+
+### 💻 Programming & Scripting
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,python,bash,java,js" alt="Programming Languages"/>
 </p>
 
 ---
@@ -63,17 +54,34 @@ I am pursuing a bachelor’s degree in Information and Communication Technologie
 ## 🔐 Cybersecurity Interests
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=securityscorecard&logoColor=00C9FF"/>
-  <img src="https://img.shields.io/badge/Network_Security-000000?style=for-the-badge&logo=cisco&logoColor=00C9FF"/>
-  <img src="https://img.shields.io/badge/Linux_Security-000000?style=for-the-badge&logo=linux&logoColor=00C9FF"/>
-  <img src="https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=kalilinux&logoColor=00C9FF"/>
+  <img src="https://img.shields.io/badge/Network_Penetration_Testing-000000?style=for-the-badge&logo=kalilinux&logoColor=00C9FF"/>
+  <img src="https://img.shields.io/badge/Malware_Analysis-000000?style=for-the-badge&logo=virustotal&logoColor=00C9FF"/>
+  <img src="https://img.shields.io/badge/Reverse_Engineering-000000?style=for-the-badge&logo=gnuemacs&logoColor=00C9FF"/>
+  <img src="https://img.shields.io/badge/Cryptography-000000?style=for-the-badge&logo=letsencrypt&logoColor=00C9FF"/>
+  <img src="https://img.shields.io/badge/Privilege_Escalation-000000?style=for-the-badge&logo=linux&logoColor=00C9FF"/>
 </p>
 
-- Network Security Fundamentals
-- Linux System Administration
-- Cybersecurity Fundamentals
-- Security Tools & Practical Labs
-- Information Security Best Practices
+- Network Security
+- Vulnerability Assessment
+- Ethical Hacking
+- Linux & Windows Security
+- Malware Analysis
+- Exploit Research
+
+---
+
+## 🎯 Hands-on Practice Platforms
+
+<p align="center">
+  <a href="https://tryhackme.com/">
+    <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00C9FF" alt="TryHackMe"/>
+  </a>
+  <a href="https://www.hackthebox.com/">
+    <img src="https://img.shields.io/badge/Hack_The_Box-000000?style=for-the-badge&logo=hackthebox&logoColor=00C9FF" alt="Hack The Box"/>
+  </a>
+</p>
+
+I use hands-on cybersecurity platforms to develop my practical skills, explore security concepts, and improve my problem-solving abilities.
 
 ---
 
@@ -82,19 +90,21 @@ I am pursuing a bachelor’s degree in Information and Communication Technologie
 - Strengthening my understanding of Computer Networks.
 - Exploring Linux commands and system administration.
 - Practicing C and Python programming.
-- Understanding operating systems and system security.
-- Exploring cybersecurity concepts and techniques.
+- Learning network penetration testing fundamentals.
+- Exploring cryptography and malware analysis.
+- Understanding vulnerability exploitation and privilege escalation.
 
 ---
 
-## 🎯 Future Goals
+## 🚀 Future Goals
 
-- Develop strong foundations in Cybersecurity.
-- Improve my networking and Linux skills.
-- Build practical projects and security tools.
-- Gain hands-on experience through security labs.
+- Develop strong foundations in Red Team operations.
+- Improve Linux, Windows, and networking skills.
+- Build practical cybersecurity projects and tools.
+- Develop malware analysis and reverse engineering skills.
+- Practice penetration testing in authorized environments.
 - Participate in CTF challenges.
-- Document my learning journey and technical progress.
+- Document my technical progress and learning journey.
 
 ---
 

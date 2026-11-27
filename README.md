@@ -28,7 +28,7 @@ I'm a person  who enjoys understanding how systems work, and how they can be bro
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,windows,vscode,bash,python,go,js,c" alt="Linux, Kali, Windows, Bash, Python, C, PHP, JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=linux,kali,windows,vscode,bash,python,go,js,c" alt="Linux, Kali, Windows, Bash, Python, C, JavaScript"/>
 </p>
 
 <p align="center">
